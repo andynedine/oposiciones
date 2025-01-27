@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test de Oposiciones</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Test de Oposiciones</h1>
+    </header>
+    <main>
+        <section id="selectorSection" class="config-section">
+            <div class="config-item">
+                <label for="selectorTema">Selecciona un tema:</label>
+                <select id="selectorTema">
+                    <option value="random">Aleatorio</option>
+                    <option value="1">Tema 1</option>
+                    <option value="2">Tema 2</option>
+                    <option value="3">Tema 3</option>
+                    <option value="4">Tema 4</option>
+                    <option value="5">Tema 5</option>
+                    <option value="6">Tema 6</option>
+                    <option value="7">Tema 7</option>
+                    <option value="8">Tema 8</option>
+                    <option value="9">Tema 9</option>
+                </select>
+            </div>
+            <div class="config-item">
+                <label for="tiempoSelector">Temporizador por pregunta:</label>
+                <select id="tiempoSelector">
+                    <option value="15">15 segundos</option>
+                    <option value="30" selected>30 segundos</option>
+                    <option value="40">40 segundos</option>
+                    <option value="50">50 segundos</option>
+                    <option value="60">60 segundos</option>
+                </select>
+            </div>
+            <div class="config-item">
+                <label for="numeroPreguntas">Número de preguntas:</label>
+                <input id="numeroPreguntas" type="text" placeholder="Dejar vacío para preguntas infinitas">
+            </div>
+            <div class="config-item">
+                <button id="startButton">Iniciar Test</button>
+            </div>
+        </section>
+        <section id="questionContainer" class="hidden question-section">
+            <div id="capa_pregunta">
+                <p id="temaActual" class="tema-text"></p>
+                <p id="question" class="question-text"></p>
+                <div id="options" class="options-container"></div>
+                <p id="timer" class="timer-text"></p>
+            </div>
+            <p id="feedback" class="feedback-text"></p>
+        </section>
+    </main>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
