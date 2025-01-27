@@ -50,7 +50,7 @@ const tema9 = [
         respuesta: "Toda sesión, ordinaria o extraordinaria, habrá de respetar el principio de unidad de acto y"
     },
     {
-        pregunta: "¿Cuál de las siguientes definiciones se refiere a "proposición" tal y como se recoge en el artículo 97 del Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, aprobado por Real Decreto 2568/1986, de 28 de noviembre?: que acompaña a la convocatoria, en virtud de lo dispuesto en el artículo 82.3 de este Reglamento. Contendrá una parte expositiva o justificación y un acuerdo, asimismo, a adoptar. Informativa. Contiene una parte expositiva y un acuerdo a adoptar. por escrito u oralmente. parte de la Comisión Informativa.",
+        pregunta: "¿Cuál de las siguientes definiciones se refiere a \"proposición\" tal y como se recoge en el artículo 97 del Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, aprobado por Real Decreto 2568/1986, de 28 de noviembre?: que acompaña a la convocatoria, en virtud de lo dispuesto en el artículo 82.3 de este Reglamento. Contendrá una parte expositiva o justificación y un acuerdo, asimismo, a adoptar. Informativa. Contiene una parte expositiva y un acuerdo a adoptar. por escrito u oralmente. parte de la Comisión Informativa.",
         opciones: ['Es la propuesta que se somete al Pleno relativa a un asunto incluido en el orden del día,', 'Es la propuesta sometida al pleno tras el estudio del expediente por la Comisión', 'Es la propuesta que se somete directamente a conocimiento del Pleno. Podrá formularse', 'Es la propuesta de modificación de un dictamen formulada por un miembro que forma'],
         respuesta: "Es la propuesta que se somete al Pleno relativa a un asunto incluido en el orden del día,"
     },
@@ -60,7 +60,7 @@ const tema9 = [
         respuesta: "Las convocatorias de las sesiones, los órdenes del día, mociones, votos particulares,"
     },
     {
-        pregunta: "La siguiente definición: " Es la propuesta de modificación de un dictamen o proposición presentada por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto." ¿Con cuál de las siguientes se corresponde?",
+        pregunta: "La siguiente definición: \" Es la propuesta de modificación de un dictamen o proposición presentada por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto.\" ¿Con cuál de las siguientes se corresponde?",
         opciones: ['Ruego (artículo 97.6 del ROF)', 'Moción (artículo 97. 3 del ROF)', 'Enmienda (artículo 97.5 del ROF)', 'Dictamen (Artículo 97.1 del ROF)'],
         respuesta: "Enmienda (artículo 97.5 del ROF)"
     },

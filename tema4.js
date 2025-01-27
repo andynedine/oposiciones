@@ -35,7 +35,7 @@ const tema4 = [
         respuesta: "Funcionarios, eventuales, interinos y laborales."
     },
     {
-        pregunta: "¿A qué tipo de personal al servicio de la Administración de la Junta de Andalucía corresponde con la siguiente definición de acuerdo con la Ley 6/1985, de Ordenación de la Función Pública de la Junta de Andalucía: " quienes ocupan puestos de trabajo expresamente calificados como de confianza o asesoramiento especial"?",
+        pregunta: "¿A qué tipo de personal al servicio de la Administración de la Junta de Andalucía corresponde con la siguiente definición de acuerdo con la Ley 6/1985, de Ordenación de la Función Pública de la Junta de Andalucía: \" quienes ocupan puestos de trabajo expresamente calificados como de confianza o asesoramiento especial\"?",
         opciones: ['Funcionarios, eventuales e interinos.', 'Eventuales', 'Interinos', 'Laborales'],
         respuesta: "Eventuales"
     },
@@ -85,7 +85,7 @@ const tema4 = [
         respuesta: "Servicio activo."
     },
     {
-        pregunta: "¿A qué concepto se refiere la siguiente definición, tal y como establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: " Retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario":",
+        pregunta: "¿A qué concepto se refiere la siguiente definición, tal y como establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \" Retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario\":",
         opciones: ['Retribuciones básicas.', 'Retribuciones complementarias.', 'Retribuciones básicas y complementarias.', 'Pagas extraordinarias.'],
         respuesta: "Retribuciones complementarias."
     },
@@ -120,7 +120,7 @@ const tema4 = [
         respuesta: "Al menos, durante dos años. Transcurrido este período, dicha reserva lo será a un puesto"
     },
     {
-        pregunta: "Señale la respuesta correcta respecto a lo regulado en el artículo 47 bis " teletrabajo" del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: que las necesidades del servicio lo permitan, fuera de las dependencias de la Administración, mediante el uso de tecnologías de la información y comunicación. será compatible con la modalidad presencial. En todo caso, tendrá carácter obligatorio y reversible salvo en supuestos excepcionales debidamente justificados derechos, individuales y colectivos, recogidos en el presente Estatuto que el resto del personal que preste sus servicios en modalidad presencial, sin incluir la normativa de prevención de riesgos laborales. modalidad, los medios tecnológicos necesarios para su actividad.",
+        pregunta: "Señale la respuesta correcta respecto a lo regulado en el artículo 47 bis \" teletrabajo\" del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: que las necesidades del servicio lo permitan, fuera de las dependencias de la Administración, mediante el uso de tecnologías de la información y comunicación. será compatible con la modalidad presencial. En todo caso, tendrá carácter obligatorio y reversible salvo en supuestos excepcionales debidamente justificados derechos, individuales y colectivos, recogidos en el presente Estatuto que el resto del personal que preste sus servicios en modalidad presencial, sin incluir la normativa de prevención de riesgos laborales. modalidad, los medios tecnológicos necesarios para su actividad.",
         opciones: ['Se considera teletrabajo aquella modalidad de prestación de servicios en remoto, siempre', 'La prestación del servicio mediante teletrabajo habrá de ser expresamente autorizada y', 'El personal que preste sus servicios mediante teletrabajo tendrá los mismos deberes y', 'La Administración proporcionará y mantendrá a las personas que trabajen en esta'],
         respuesta: "La Administración proporcionará y mantendrá a las personas que trabajen en esta"
     },
@@ -140,7 +140,7 @@ const tema4 = [
         respuesta: "Se establecerán por las correspondientes leyes de cada Administración Pública."
     },
     {
-        pregunta: "Según dispone el artículo 30 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: " Quiénes ejerciten el derecho de huelga:" permanecido en esa situación y no se verá afectado al régimen respectivo de sus prestaciones sociales. permanecido en esa situación pero si afectará al régimen respectivo de sus prestaciones sociales. permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales. permanecido en esa situación con carácter de sanción, y afectará al régimen respectivo de sus prestaciones sociales.",
+        pregunta: "Según dispone el artículo 30 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \" Quiénes ejerciten el derecho de huelga:\" permanecido en esa situación y no se verá afectado al régimen respectivo de sus prestaciones sociales. permanecido en esa situación pero si afectará al régimen respectivo de sus prestaciones sociales. permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales. permanecido en esa situación con carácter de sanción, y afectará al régimen respectivo de sus prestaciones sociales.",
         opciones: ['Devengarán y percibirán las retribuciones correspondientes al tiempo en que hayan', 'Devengarán y percibirán las retribuciones correspondientes al tiempo en que hayan', 'No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan', 'No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan'],
         respuesta: "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan"
     },
@@ -150,7 +150,7 @@ const tema4 = [
         respuesta: "Mediante Decreto del Consejo de Gobierno."
     },
     {
-        pregunta: "La siguiente definición: " la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados", ¿a cuál de los siguientes conceptos se refiere según se regula en el artículo 31 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?:",
+        pregunta: "La siguiente definición: \" la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados\", ¿a cuál de los siguientes conceptos se refiere según se regula en el artículo 31 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?:",
         opciones: ['Representación.', 'Negociación colectiva.', 'Participación institucional.', 'Participación sindical.'],
         respuesta: "Representación."
     },
@@ -170,7 +170,7 @@ const tema4 = [
         respuesta: "Sueldo y trienios."
     },
     {
-        pregunta: "Dispone el artículo 18 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: " Consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior". De las siguientes, ¿A qué concepto se refiere dicha definición?:",
+        pregunta: "Dispone el artículo 18 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \" Consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior\". De las siguientes, ¿A qué concepto se refiere dicha definición?:",
         opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
         respuesta: "Promoción interna vertical."
     },
@@ -195,7 +195,7 @@ const tema4 = [
         respuesta: "Libertad sindical."
     },
     {
-        pregunta: "Teniendo en cuenta lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de las siguientes opciones se corresponde con la siguiente definición: "consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo"?",
+        pregunta: "Teniendo en cuenta lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de las siguientes opciones se corresponde con la siguiente definición: \"consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo\"?",
         opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
         respuesta: "Carrera horizontal."
     },
@@ -210,7 +210,7 @@ const tema4 = [
         respuesta: "Principios de mérito y capacidad, criterios de idoneidad y procedimientos que garanticen la"
     },
     {
-        pregunta: "¿Con qué clase de empleado público encaja la siguiente definición, según se regula en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?: " Los que por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias: Exceso o acumulación de tareas, ejecución de programas de carácter temporal.[entre otras]":",
+        pregunta: "¿Con qué clase de empleado público encaja la siguiente definición, según se regula en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?: \" Los que por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias: Exceso o acumulación de tareas, ejecución de programas de carácter temporal.[entre otras]\":",
         opciones: ['Personal laboral de carácter temporal.', 'Personal eventual.', 'Funcionario interino.', 'Personal laboral de carácter fijo.'],
         respuesta: "Funcionario interino."
     },

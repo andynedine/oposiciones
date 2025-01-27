@@ -210,7 +210,7 @@ const tema1 = [
         respuesta: "En él se contienen los principios fundamentales que sirven de base a toda la Constitución."
     },
     {
-        pregunta: "El Título I de la Constitución: "De los derechos y deberes fundamentales", ¿de cuántos capítulos consta?",
+        pregunta: "El Título I de la Constitución: \"De los derechos y deberes fundamentales\", ¿de cuántos capítulos consta?",
         opciones: ['5 capítulos.', '3 capítulos.', '4 capítulos.', '2 capítulos y cada uno se divide en 3 secciones.'],
         respuesta: "5 capítulos."
     },

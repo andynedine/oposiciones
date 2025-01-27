@@ -71,10 +71,16 @@ def procesar_respuestas_y_generar_js(archivo_respuestas):
         with open(archivo_js, "w", encoding="utf-8") as f:
             f.write(f"const tema{tema} = [\n")
             for pregunta in preguntas:
+                # Escapar comillas dobles en pregunta, opciones y respuesta
+                pregunta_texto = pregunta['pregunta'].replace('"', '\\"')
+                opciones_texto = [opcion.replace('"', '\\"') for opcion in pregunta['opciones']]
+                respuesta_texto = pregunta['respuesta'].replace('"', '\\"')
+
+                # Escribir la pregunta en el archivo JS
                 f.write("    {\n")
-                f.write(f"        pregunta: \"{pregunta['pregunta']}\",\n")
-                f.write(f"        opciones: {pregunta['opciones']},\n")
-                f.write(f"        respuesta: \"{pregunta['respuesta']}\"\n")
+                f.write(f"        pregunta: \"{pregunta_texto}\",\n")
+                f.write(f"        opciones: {opciones_texto},\n")
+                f.write(f"        respuesta: \"{respuesta_texto}\"\n")
                 f.write("    },\n")
             f.write("];\n\n")
             f.write(f"export default tema{tema};\n")
