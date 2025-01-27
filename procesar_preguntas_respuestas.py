@@ -24,6 +24,7 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
     acumulador_tema = []  # Para acumular líneas del bloque del tema
     acumulador_opciones = []  # Para acumular opciones de respuesta
     numero_pregunta = None
+    texto_pregunta = ""  # Para acumular el texto completo de la pregunta
     en_opciones = False  # Para indicar si estamos procesando opciones de respuesta
 
     for i, linea in enumerate(preguntas):
@@ -34,6 +35,7 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
         if re.match(r"Tema\s+\d+\.", linea):
             # Guardar opciones y respuesta correcta de la pregunta previa si existen
             if acumulador_opciones and numero_pregunta in respuestas_dict:
+                resultado.append(f"{texto_pregunta}\n")
                 resultado.extend(acumulador_opciones)
                 resultado.append(f"[{respuestas_dict[numero_pregunta]}]\n")
                 acumulador_opciones = []
@@ -45,12 +47,14 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
 
             acumulador_tema.append(linea)  # Agregar el inicio del nuevo tema
             en_opciones = False  # Salir del bloque de opciones
+            texto_pregunta = ""  # Reiniciar texto de la pregunta
             continue
 
         # Detectar el inicio de una nueva pregunta
-        if linea.startswith(tuple(f"{x}.-" for x in range(1, 1000))):
+        if re.match(r"\d+\.-", linea):  # Detecta "X.-" donde X es un número
             # Guardar opciones y respuesta correcta de la pregunta previa
             if acumulador_opciones and numero_pregunta in respuestas_dict:
+                resultado.append(f"{texto_pregunta}\n")
                 resultado.extend(acumulador_opciones)
                 resultado.append(f"[{respuestas_dict[numero_pregunta]}]\n")
                 acumulador_opciones = []
@@ -60,10 +64,15 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
                 resultado.extend(acumulador_tema)
                 acumulador_tema = []
 
-            # Registrar la nueva pregunta
+            # Registrar la nueva pregunta y reiniciar acumuladores
             numero_pregunta = int(linea.split(".-")[0].strip())
-            resultado.append(linea)
+            texto_pregunta = linea  # Inicializar el texto de la nueva pregunta
             en_opciones = True  # Entramos en el bloque de opciones
+            continue
+
+        # Acumular texto de la pregunta si estamos en la sección de preguntas
+        if en_opciones and not linea.startswith(("a)", "b)", "c)", "d)")):
+            texto_pregunta += f" {linea.strip()}"
             continue
 
         # Detectar opciones de respuesta (a), b), c), d))
@@ -73,11 +82,10 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
 
         # Continuar acumulando líneas de una opción si no inicia un nuevo bloque
         if en_opciones:
-            # Detectar si la línea es el inicio de una nueva pregunta o tema
-            #if re.match(r"Tema\s+\d+\.\s+", siguiente_linea) or siguiente_linea.startswith(tuple(f"{x}.- " for x in range(1, 1000))):
-            if re.match(r"Tema\s+\d+\.\s+", siguiente_linea) or re.match(r"\d\.\-\s+", siguiente_linea):
+            if re.match(r"Tema\s+\d+\.", siguiente_linea) or re.match(r"\d+\.-", siguiente_linea):
                 # Guardar las opciones acumuladas y la respuesta correcta
                 if acumulador_opciones and numero_pregunta in respuestas_dict:
+                    resultado.append(f"{texto_pregunta}\n")
                     resultado.extend(acumulador_opciones)
                     resultado.append(f"[{respuestas_dict[numero_pregunta]}]\n")
                     acumulador_opciones = []
@@ -91,6 +99,7 @@ def procesar_preguntas_y_respuestas(preguntas_file, respuestas_file, archivo_sal
 
     # Agregar las últimas opciones y respuesta correcta al final del archivo
     if acumulador_opciones and numero_pregunta in respuestas_dict:
+        resultado.append(f"{texto_pregunta}\n")
         resultado.extend(acumulador_opciones)
         resultado.append(f"[{respuestas_dict[numero_pregunta]}]\n")
 

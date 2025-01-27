@@ -1,13 +1,13 @@
 const tema2 = [
     {
-        pregunta: "¿Quiénes tienen capacidad de obrar ante las Administraciones Públicas según el art. 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
-        opciones: ['Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.', 'Los menores de edad e incapacitados, estos últimos con la asistencia de persona que ejerza la patria potestad, tutela o curatela.', 'En todo caso, los grupos de afectados y los patrimonios independientes o autónomos.', 'Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas administrativas.'],
-        respuesta: "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles."
+        pregunta: "¿Quiénes tienen capacidad de obrar ante las Administraciones Públicas según el art. 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas? civiles. la patria potestad, tutela o curatela. administrativas.",
+        opciones: ['Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas', 'Los menores de edad e incapacitados, estos últimos con la asistencia de persona que ejerza', 'En todo caso, los grupos de afectados y los patrimonios independientes o autónomos.', 'Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas'],
+        respuesta: "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas"
     },
     {
-        pregunta: "Los menores incapacitados, según establece el artículo 3 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['Carecen de la condición de interesados en un procedimiento administrativo.', 'Se equiparan a los menores capaces, en el ámbito del procedimiento administrativo.', 'Carecen de capacidad de obrar ante las Administraciones Públicas cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.', 'Tienen capacidad de obrar ante las Administraciones Públicas cuando la extensión de incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.'],
-        respuesta: "Carecen de capacidad de obrar ante las Administraciones Públicas cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate."
+        pregunta: "Los menores incapacitados, según establece el artículo 3 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate. incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.",
+        opciones: ['Carecen de la condición de interesados en un procedimiento administrativo.', 'Se equiparan a los menores capaces, en el ámbito del procedimiento administrativo.', 'Carecen de capacidad de obrar ante las Administraciones Públicas cuando la extensión de la', 'Tienen capacidad de obrar ante las Administraciones Públicas cuando la extensión de'],
+        respuesta: "Carecen de capacidad de obrar ante las Administraciones Públicas cuando la extensión de la"
     },
     {
         pregunta: "Según se regula en el artículo 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las administraciones Públicas, quienes promuevan un procedimiento como titulares de intereses legítimos:",
@@ -20,8 +20,8 @@ const tema2 = [
         respuesta: "Se presume para los actos de mero trámite."
     },
     {
-        pregunta: "Las asociaciones y organizaciones representativas de intereses económicos y sociales, según el artículo 4 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['Serán titulares de intereses legítimos individuales y colectivos en los términos que reglamentariamente se establezca.', 'Serán titulares de intereses legítimos individuales y colectivos, en todo caso.', 'No serán titulares de intereses legítimos colectivos.', 'Serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'],
+        pregunta: "Las asociaciones y organizaciones representativas de intereses económicos y sociales, según el artículo 4 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: reglamentariamente se establezca.",
+        opciones: ['Serán titulares de intereses legítimos individuales y colectivos en los términos que', 'Serán titulares de intereses legítimos individuales y colectivos, en todo caso.', 'No serán titulares de intereses legítimos colectivos.', 'Serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'],
         respuesta: "Serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca."
     },
     {
@@ -30,8 +30,8 @@ const tema2 = [
         respuesta: "Cualquiera que sea el estado del procedimiento."
     },
     {
-        pregunta: "Según el artículo 5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se presumirá la representación para:",
-        opciones: ['Interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona.', 'Formular solicitudes.', 'Los actos y gestiones de mero trámite.', 'Presentar declaraciones responsables o comunicaciones.'],
+        pregunta: "Según el artículo 5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se presumirá la representación para: persona.",
+        opciones: ['Interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra', 'Formular solicitudes.', 'Los actos y gestiones de mero trámite.', 'Presentar declaraciones responsables o comunicaciones.'],
         respuesta: "Los actos y gestiones de mero trámite."
     },
     {
@@ -40,43 +40,43 @@ const tema2 = [
         respuesta: "10 días o de un plazo superior cuando las circunstancias del caso así lo requieran."
     },
     {
-        pregunta: "¿Quiénes dispondrán de un Registro electrónico de apoderamiento según dispone el artículo 6 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
-        opciones: ['La Administración General del Estado.', 'Las Comunidades Autónomas y las Entidades Locales.', 'Todas las Entidades que integran el Sector Público.', 'La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales.'],
+        pregunta: "¿Quiénes dispondrán de un Registro electrónico de apoderamiento según dispone el artículo 6 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas? Locales.",
+        opciones: ['La Administración General del Estado.', 'Las Comunidades Autónomas y las Entidades Locales.', 'Todas las Entidades que integran el Sector Público.', 'La Administración General del Estado, las Comunidades Autónomas y las Entidades'],
         respuesta: "La Administración General del Estado, las Comunidades Autónomas y las Entidades"
     },
     {
-        pregunta: "Respecto a la tramitación de urgencia regulada en el art. 33 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.', 'Cabrá recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, así como contra la resolución que ponga fin al procedimiento.', 'Sólo de oficio podrá acordarse la aplicación al procedimiento de la tramitación de urgencia.', 'En la tramitación de urgencia se reducirán a la mitad todos los plazos establecidos para el procedimiento ordinario.'],
-        respuesta: "No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento."
+        pregunta: "Respecto a la tramitación de urgencia regulada en el art. 33 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento. procedimiento, así como contra la resolución que ponga fin al procedimiento. procedimiento ordinario.",
+        opciones: ['No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de', 'Cabrá recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia al', 'Sólo de oficio podrá acordarse la aplicación al procedimiento de la tramitación de urgencia.', 'En la tramitación de urgencia se reducirán a la mitad todos los plazos establecidos para el'],
+        respuesta: "No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de"
     },
     {
-        pregunta: "Establece el artículo 30 de la Ley 39/2015, que si el plazo es fijado en meses o años, el plazo concluirá:",
-        opciones: ['El día siguiente en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.', 'El mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.', 'El día antes en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.', 'El ultimo día del mes en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.'],
-        respuesta: "El mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento."
+        pregunta: "Establece el artículo 30 de la Ley 39/2015, que si el plazo es fijado en meses o años, el plazo concluirá: mes o el año de vencimiento. mes o el año de vencimiento. mes o el año de vencimiento. en el mes o el año de vencimiento.",
+        opciones: ['El día siguiente en que se produjo la notificación, publicación o silencio administrativo en el', 'El mismo día en que se produjo la notificación, publicación o silencio administrativo en el', 'El día antes en que se produjo la notificación, publicación o silencio administrativo en el', 'El ultimo día del mes en que se produjo la notificación, publicación o silencio administrativo'],
+        respuesta: "El mismo día en que se produjo la notificación, publicación o silencio administrativo en el"
     },
     {
-        pregunta: "Respecto a la pluralidad de interesados, establece el artículo 7 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones se efectuarán con el representante en todo caso.', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, cada uno de ellos deberá actuar con el representante expresamente señalado al efecto.', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que hayan señalado, indistintamente.'],
-        respuesta: "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término."
+        pregunta: "Respecto a la pluralidad de interesados, establece el artículo 7 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: se efectuarán con el representante en todo caso. a que den lugar se efectuarán con el representante o interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término. ellos deberá actuar con el representante expresamente señalado al efecto. a que den lugar se efectuarán con el representante o el interesado que hayan señalado, indistintamente.",
+        opciones: ['Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, cada uno de', 'Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones'],
+        respuesta: "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones"
     },
     {
-        pregunta: "Según el artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados en un procedimiento administrativo tienen derecho a:",
-        opciones: ['No presentar en ningún caso documentos originales.', 'Conocer el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo.', 'Conocer, antes del trámite de audiencia, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.', 'Formular alegaciones, utilizar los medios de defensa admitidos por el ordenamiento jurídico, y a aportar documentos en cualquier fase del procedimiento.'],
-        respuesta: "Conocer el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo."
+        pregunta: "Según el artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados en un procedimiento administrativo tienen derecho a: Administración no dicte ni notifique resolución expresa en plazo. en los que tengan la condición de interesados. jurídico, y a aportar documentos en cualquier fase del procedimiento.",
+        opciones: ['No presentar en ningún caso documentos originales.', 'Conocer el sentido del silencio administrativo que corresponda, en caso de que la', 'Conocer, antes del trámite de audiencia, el estado de la tramitación de los procedimientos', 'Formular alegaciones, utilizar los medios de defensa admitidos por el ordenamiento'],
+        respuesta: "Conocer el sentido del silencio administrativo que corresponda, en caso de que la"
     },
     {
-        pregunta: "¿Quiénes no estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas según dispone el artículo 14 de la Ley 39/2015, de 1 de octubre de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
-        opciones: ['Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.', 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público.', 'Las personas jurídicas.', 'Las entidades con personalidad jurídica.'],
+        pregunta: "¿Quiénes no estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas según dispone el artículo 14 de la Ley 39/2015, de 1 de octubre de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas? con la Administración. realicen con ellas por razón de su condición de empleado público.",
+        opciones: ['Quienes representen a un interesado que esté obligado a relacionarse electrónicamente', 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que', 'Las personas jurídicas.', 'Las entidades con personalidad jurídica.'],
         respuesta: "Las entidades con personalidad jurídica."
     },
     {
-        pregunta: "Respecto de la obligación de resolver regulada en el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['En todos los procedimientos y supuestos, la Administración está obligada a dictar resolución expresa y a notificarla.', 'El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento, el cual no podrá exceder de 3 meses.', 'Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.', 'En los procedimientos iniciados a solicitud del interesado, el plazo se contará desde la fecha del acuerdo de iniciación.'],
-        respuesta: "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses."
+        pregunta: "Respecto de la obligación de resolver regulada en el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: resolución expresa y a notificarla. reguladora del correspondiente procedimiento, el cual no podrá exceder de 3 meses. de tres meses. del acuerdo de iniciación.",
+        opciones: ['En todos los procedimientos y supuestos, la Administración está obligada a dictar', 'El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma', 'Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será', 'En los procedimientos iniciados a solicitud del interesado, el plazo se contará desde la fecha'],
+        respuesta: "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será"
     },
     {
-        pregunta: "El calendario de días inhábiles a efectos de cómputos de plazos, según dispone el art. 30 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['Deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.', 'Deberá publicarse en el primer mes de cada año en el diario oficial que corresponda.', 'Deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda.', 'Deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.'],
+        pregunta: "El calendario de días inhábiles a efectos de cómputos de plazos, según dispone el art. 30 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: así como en otros medios de difusión que garanticen su conocimiento generalizado. como en otros medios de difusión que garanticen su conocimiento generalizado.",
+        opciones: ['Deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda,', 'Deberá publicarse en el primer mes de cada año en el diario oficial que corresponda.', 'Deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda.', 'Deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así'],
         respuesta: "Deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así"
     },
     {
@@ -85,8 +85,8 @@ const tema2 = [
         respuesta: "10 días a contar desde su solicitud."
     },
     {
-        pregunta: "Según lo dispuesto en el art. 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los plazos se señalen por horas, se entiende que éstas son hábiles:",
-        opciones: ['Salvo que reglamentariamente se disponga otro cómputo.', 'Salvo que en las normas que regulan el procedimiento se disponga otro cómputo.', 'Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo.', 'Salvo que una norma con rango de ley o una norma con rango de ley de Derecho internacional disponga otro cómputo.'],
+        pregunta: "Según lo dispuesto en el art. 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los plazos se señalen por horas, se entiende que éstas son hábiles: internacional disponga otro cómputo.",
+        opciones: ['Salvo que reglamentariamente se disponga otro cómputo.', 'Salvo que en las normas que regulan el procedimiento se disponga otro cómputo.', 'Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo.', 'Salvo que una norma con rango de ley o una norma con rango de ley de Derecho'],
         respuesta: "Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo."
     },
     {
@@ -95,9 +95,9 @@ const tema2 = [
         respuesta: "Son hábiles todas las horas del día que formen parte de un día hábil."
     },
     {
-        pregunta: "Las Administraciones Públicas emitirán los documentos administrativos según dispone el art. 36 de la Ley 39/2015, de 1 de octubre del Procedimiento Administrativo Común de las Administraciones Públicas:",
-        opciones: ['Por escrito, a través de medio no electrónicos, o verbalmente si así lo solicita el interesado.', 'Por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.', 'Por escrito, a través de medios no electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia', 'Por escrito, a través de medios electrónicos, o verbalmente si así lo solicita el interesado.'],
-        respuesta: "Por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia."
+        pregunta: "Las Administraciones Públicas emitirán los documentos administrativos según dispone el art. 36 de la Ley 39/2015, de 1 de octubre del Procedimiento Administrativo Común de las Administraciones Públicas: más adecuada de expresión y constancia. más adecuada de expresión y constancia",
+        opciones: ['Por escrito, a través de medio no electrónicos, o verbalmente si así lo solicita el interesado.', 'Por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma', 'Por escrito, a través de medios no electrónicos, a menos que su naturaleza exija otra forma', 'Por escrito, a través de medios electrónicos, o verbalmente si así lo solicita el interesado.'],
+        respuesta: "Por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma"
     },
     {
         pregunta: "Dispone el art. 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que el certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver:",
@@ -105,9 +105,9 @@ const tema2 = [
         respuesta: "En el plazo de 15 días desde que expire el plazo máximo para resolver el procedimiento."
     },
     {
-        pregunta: "¿En qué casos se puede suspender el plazo máximo legal para resolver tal y como establece el artículo 22 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
-        opciones: ['Cuando deba obtenerse un pronunciamiento previo y no preceptivo de un órgano de la Unión Europea.', 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate.', 'Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los órganos competentes.', 'Cuando para la resolución del procedimiento sea conveniente la obtención de un preceptivo pronunciamiento por parte de un órgano jurisdiccional.'],
-        respuesta: "Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate."
+        pregunta: "¿En qué casos se puede suspender el plazo máximo legal para resolver tal y como establece el artículo 22 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas? Unión Europea. condicione directamente el contenido de la resolución de que se trate. propuestos por los órganos competentes. preceptivo pronunciamiento por parte de un órgano jurisdiccional.",
+        opciones: ['Cuando deba obtenerse un pronunciamiento previo y no preceptivo de un órgano de la', 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que', 'Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes', 'Cuando para la resolución del procedimiento sea conveniente la obtención de un'],
+        respuesta: "Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que"
     },
     {
         pregunta: "Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, según dispone el art. 23 de la Ley 39/2015, de 1 de octubre del Procedimiento Administrativo Común de las Administraciones Públicas:",
@@ -115,14 +115,14 @@ const tema2 = [
         respuesta: "No cabrá recurso alguno."
     },
     {
-        pregunta: "Según el artículo 35.1 de la Ley 39/2015, de 1 de octubre, ¿cuáles de los siguientes serán motivados, con sucinta referencia de hechos y fundamentos de derecho?",
-        opciones: ['Los actos que amplíen derechos o intereses.', 'Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren la inadmisión.', 'Los que continúen con el criterio seguido en actuaciones precedentes.', 'Los actos que acepten pruebas propuestas por los interesados.'],
-        respuesta: "Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren la inadmisión."
+        pregunta: "Según el artículo 35.1 de la Ley 39/2015, de 1 de octubre, ¿cuáles de los siguientes serán motivados, con sucinta referencia de hechos y fundamentos de derecho? administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren la inadmisión.",
+        opciones: ['Los actos que amplíen derechos o intereses.', 'Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos', 'Los que continúen con el criterio seguido en actuaciones precedentes.', 'Los actos que acepten pruebas propuestas por los interesados.'],
+        respuesta: "Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos"
     },
     {
-        pregunta: "Según la Ley 39/2015, de 1 de octubre, el contenido de los actos se ajustará:",
-        opciones: ['A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.', 'Exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines del ordenamiento jurídico.', 'A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de la presente ley.', 'Exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines de aquéllos.'],
-        respuesta: "A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos."
+        pregunta: "Según la Ley 39/2015, de 1 de octubre, el contenido de los actos se ajustará: aquéllos. del ordenamiento jurídico. presente ley. de aquéllos.",
+        opciones: ['A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de', 'Exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines', 'A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de la', 'Exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines'],
+        respuesta: "A lo dispuesto por el Ordenamiento jurídico y será determinado y adecuado a los fines de"
     },
     {
         pregunta: "Establece el artículo 40 de la Ley 39/2015, de 1 de octubre, que toda notificación deberá ser cursada dentro del plazo de:",
@@ -130,14 +130,14 @@ const tema2 = [
         respuesta: "10 días a partir de la fecha en que el acto haya sido dictado."
     },
     {
-        pregunta: "En relación a la forma de los actos administrativos, señala el artículo 36 de la Ley 39/2015, lo siguiente:",
-        opciones: ['Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, se producirán por escrito a través de medios electrónicos.', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, por escrito a través de medios no electrónicos.', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, por escrito a través de medios electrónicos o no electrónicos.', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, verbalmente.'],
-        respuesta: "Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, se producirán por escrito a través de medios electrónicos."
+        pregunta: "En relación a la forma de los actos administrativos, señala el artículo 36 de la Ley 39/2015, lo siguiente: expresión y constancia, se producirán por escrito a través de medios electrónicos. expresión y constancia, por escrito a través de medios no electrónicos. expresión y constancia, por escrito a través de medios electrónicos o no electrónicos. expresión y constancia, verbalmente.",
+        opciones: ['Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de', 'Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de'],
+        respuesta: "Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de"
     },
     {
-        pregunta: "Excepcionalmente, dispone la ley 39/2015, de 1 de octubre, podrá otorgarse eficacia retroactiva a los actos:",
-        opciones: ['Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto.', 'Cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto.', 'Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto.', 'Cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto.'],
-        respuesta: "Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto."
+        pregunta: "Excepcionalmente, dispone la ley 39/2015, de 1 de octubre, podrá otorgarse eficacia retroactiva a los actos: necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto. hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto. necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto. hecho necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto.",
+        opciones: ['Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho', 'Cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de', 'Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho', 'Cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de'],
+        respuesta: "Cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho"
     },
     {
         pregunta: "Según la Ley 39/2015, de 1 de octubre, la eficacia de los actos administrativos quedará demorada:",
@@ -160,9 +160,9 @@ const tema2 = [
         respuesta: "Los actos que limiten derechos subjetivos o intereses legítimos."
     },
     {
-        pregunta: "Según el artículo 35.2 de la Ley 39/2015, de 1 de octubre: ¿En qué procedimientos la motivación de los actos se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte?",
-        opciones: ['En todos los actos de los procedimientos selectivos y de concurrencia competitiva.', 'En los actos que pongan fin a los procedimientos que pongan fin a los procedimientos selectivos y de concurrencia competitiva.', 'En todos los actos que pongan fin a un procedimiento administrativo.', 'En los actos que cada órgano competente estime convenientes, informando previamente a los interesados.'],
-        respuesta: "En los actos que pongan fin a los procedimientos que pongan fin a los procedimientos selectivos y de concurrencia competitiva."
+        pregunta: "Según el artículo 35.2 de la Ley 39/2015, de 1 de octubre: ¿En qué procedimientos la motivación de los actos se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte? selectivos y de concurrencia competitiva. los interesados.",
+        opciones: ['En todos los actos de los procedimientos selectivos y de concurrencia competitiva.', 'En los actos que pongan fin a los procedimientos que pongan fin a los procedimientos', 'En todos los actos que pongan fin a un procedimiento administrativo.', 'En los actos que cada órgano competente estime convenientes, informando previamente a'],
+        respuesta: "En los actos que pongan fin a los procedimientos que pongan fin a los procedimientos"
     },
     {
         pregunta: "Dispone el artículo 36.2 de la Ley 39/2015, de 1 de octubre, que en los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
@@ -180,9 +180,9 @@ const tema2 = [
         respuesta: "Por el medio señalado al efecto por aquel."
     },
     {
-        pregunta: "Según el artículo 41.7 de la Ley 39/2015, cuando el interesado fuera notificado por distintos cauces:",
-        opciones: ['Se tomará como fecha de notificación la de aquélla que se hubiera producido en último lugar.', 'Se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.', 'Se tomará como fecha de notificación la de aquélla que se hubiera producido en papel.', 'Se tomará como fecha de notificación la de aquélla que se hubiera producida por vía electrónica.'],
-        respuesta: "Se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar."
+        pregunta: "Según el artículo 41.7 de la Ley 39/2015, cuando el interesado fuera notificado por distintos cauces: lugar. lugar. electrónica.",
+        opciones: ['Se tomará como fecha de notificación la de aquélla que se hubiera producido en último', 'Se tomará como fecha de notificación la de aquélla que se hubiera producido en primer', 'Se tomará como fecha de notificación la de aquélla que se hubiera producido en papel.', 'Se tomará como fecha de notificación la de aquélla que se hubiera producida por vía'],
+        respuesta: "Se tomará como fecha de notificación la de aquélla que se hubiera producido en primer"
     },
     {
         pregunta: "Dispone el artículo 42.2 de la Ley 39/2015, de 1 de octubre, cuando la notificación se practique en el domicilio del interesado, si nadie pudiera hacerse cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta:",
@@ -190,9 +190,9 @@ const tema2 = [
         respuesta: "Dentro de los tres días siguientes."
     },
     {
-        pregunta: "¿Qué regula la Ley 39/2015 sobre la motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva?",
-        opciones: ['No precisarán de motivación', 'La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.', 'La motivación se realizará de conformidad con lo que disponga la presente ley.', 'La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, sin necesidad de que queden acreditadas en el procedimiento los fundamentos de la resolución que se adopte.'],
-        respuesta: "La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte."
+        pregunta: "¿Qué regula la Ley 39/2015 sobre la motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva? convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte. convocatorias, sin necesidad de que queden acreditadas en el procedimiento los fundamentos de la resolución que se adopte.",
+        opciones: ['No precisarán de motivación', 'La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus', 'La motivación se realizará de conformidad con lo que disponga la presente ley.', 'La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus'],
+        respuesta: "La motivación se realizará de conformidad con lo que dispongan las normas que regulen sus"
     },
     {
         pregunta: "Sobre las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, ¿qué dispone la Ley 39/2015, de 1 de octubre?",
@@ -205,8 +205,8 @@ const tema2 = [
         respuesta: "Las resoluciones y actos administrativos que afecten a sus derechos e intereses."
     },
     {
-        pregunta: "Según el artículo 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde:",
-        opciones: ['Desde la publicación en el diario o boletín correspondiente, o desde el día siguiente a su notificación.', 'La fecha en que se dicten, salvo que en ellos se disponga otra cosa.', 'Desde el mismo día de su notificación a los interesados.', 'El día siguiente a la fecha en que fueron dictados, salvo que en ellos se disponga otra cosa.'],
+        pregunta: "Según el artículo 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde: notificación.",
+        opciones: ['Desde la publicación en el diario o boletín correspondiente, o desde el día siguiente a su', 'La fecha en que se dicten, salvo que en ellos se disponga otra cosa.', 'Desde el mismo día de su notificación a los interesados.', 'El día siguiente a la fecha en que fueron dictados, salvo que en ellos se disponga otra cosa.'],
         respuesta: "La fecha en que se dicten, salvo que en ellos se disponga otra cosa."
     },
     {
@@ -220,9 +220,9 @@ const tema2 = [
         respuesta: "Dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado."
     },
     {
-        pregunta: "Respecto a la práctica de las notificaciones a través de medios electrónicos, los interesados podrán acceder a las notificaciones desde:",
-        opciones: ['El Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.', 'La página inicial de la Web de la Administración electrónica, que funcionará como un portal de acceso.', 'La oficina de la Administración virtual, que funcionará como un portal de acceso.', 'El Portal de Aplicaciones Informáticas, que funcionará como un portal de acceso.'],
-        respuesta: "El Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso."
+        pregunta: "Respecto a la práctica de las notificaciones a través de medios electrónicos, los interesados podrán acceder a las notificaciones desde: portal de acceso. de acceso.",
+        opciones: ['El Punto de Acceso General electrónico de la Administración, que funcionará como un', 'La página inicial de la Web de la Administración electrónica, que funcionará como un portal', 'La oficina de la Administración virtual, que funcionará como un portal de acceso.', 'El Portal de Aplicaciones Informáticas, que funcionará como un portal de acceso.'],
+        respuesta: "El Punto de Acceso General electrónico de la Administración, que funcionará como un"
     },
 ];
 

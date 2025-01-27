@@ -1,418 +1,253 @@
 const tema6 = [
     {
-        pregunta: "El personal al servicio de las entidades locales estará integrado según el artículo 89 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local:",
-        opciones: ['Por funcionarios de carrera.', 'Por funcionarios de carrera y contratados en régimen de derecho laboral.', 'Por funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial.', 'Por funcionarios de carrera y personal eventual.'],
-        respuesta: "Por funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial."
+        pregunta: "De las siguientes definiciones, ¿cuál es la que se contiene en el artículo 162 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales? conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad, y sus organismos autónomos, y de los derechos que prevean liquidar durante el correspondiente ejercicio, así como de las previsiones de ingresos y gastos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local correspondiente. sistemática de las obligaciones que, como máximo, tendrán permitido reconocer la entidad, y sus organismos autónomos, y de los derechos que prevean liquidar durante el correspondiente ejercicio. durante el ejercicio por cada uno de los órganos y entidades que formen parte del sector público estatal. durante el ejercicio económico por todos los órganos que formen parte del sector público estatal., así como aquellas sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local correspondiente.",
+        opciones: ['Los presupuestos generales de las entidades locales constituyen la expresión cifrada,', 'Los presupuestos generales de las entidades locales constituyen la expresión cifrada y', 'La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar', 'La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar'],
+        respuesta: "Los presupuestos generales de las entidades locales constituyen la expresión cifrada,"
     },
     {
-        pregunta: "¿A qué principios deberán responder las plantillas que cada Corporación local aprueba anualmente, según el artículo 90 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local?",
-        opciones: ['A los principios de racionalidad y economía.', 'A los principios de transparencia, racionalidad y economía.', 'A los principios de transparencia, igualdad, racionalidad y economía.', 'A los principios de racionalidad, economía y eficiencia.'],
-        respuesta: "A los principios de racionalidad, economía y eficiencia."
+        pregunta: "Según el artículo 223 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en relación a la fiscalización externa de las cuentas y de la gestión económica de las Entidades Locales y de todos los organismos y sociedades de ellas dependientes: orgánica reguladora y su ley de funcionamiento. establece su ley reguladora y de funcionamiento. correspondiente al ejercicio económico anterior. general correspondiente al ejercicio económico anterior.",
+        opciones: ['Es función propia del Tribunal de Cuentas, con el alcance y condiciones que establece su ley', 'Es función propia de la intervención General del Estado, con el alcance y condiciones que', 'Las Entidades Locales enviarán antes del día 30 de octubre de cada año, la cuenta general', 'La Intervención Municipal enviará antes del día 15 de octubre de cada año la cuenta'],
+        respuesta: "Es función propia del Tribunal de Cuentas, con el alcance y condiciones que establece su ley"
     },
     {
-        pregunta: "¿A quién corresponde, según la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, descripción de puestos de trabajo tipo y las condiciones requeridas para su creación y las normas básicas de la carrera administrativa?",
-        opciones: ['A cada Corporación Local.', 'Al Estado.', 'A las Comunidades Autónomas.', 'Al Estado, con la asistencia de las Comunidades Autónomas.'],
-        respuesta: "Al Estado."
+        pregunta: "Establece el artículo 165.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, que los derechos liquidados y las obligaciones reconocidas se aplicarán a los Presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la Ley lo autorice de modo expreso, si bien se exceptúan de lo anterior: Administraciones. judicial.",
+        opciones: ['Las cantidades destinadas a atender inversiones subvencionadas por otra u otras', 'Los créditos destinados a atender los gastos de personal.', 'Las devoluciones de ingresos declarados indebidos por Tribunal o Autoridad Competentes.', 'Los créditos que hayan de habilitarse con ocasión de dar cumplimiento a una resolución'],
+        respuesta: "Las devoluciones de ingresos declarados indebidos por Tribunal o Autoridad Competentes."
     },
     {
-        pregunta: "La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de os siguientes requisitos: (según el artículo 137 RDL 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local)",
-        opciones: ['Superación de pruebas y, en su caso, de cursos; nombramiento; prestar juramento o promesa en la forma legalmente establecida y tomar posesión dentro del plazo señalado reglamentariamente.', 'Superación de pruebas; nombramiento; superación de cursos; prestar juramento y tomar posesión en el plazo fijado por Ley.', 'Superación de pruebas; nombramiento; prestar juramento en la forma legalmente establecida y tomar posesión dentro del plazo señalado por ley.', 'Superación de ejercicios, y en su caso, de entrevistas; prestar promesa y tomar posesión en el plazo señalado por la autoridad competente.'],
-        respuesta: "Superación de pruebas y, en su caso, de cursos; nombramiento; prestar juramento o promesa en la forma legalmente establecida y tomar posesión dentro del plazo señalado reglamentariamente."
+        pregunta: "A los efectos de poder presentar reclamaciones durante el periodo de exposición al público del Presupuesto General de la Entidad Local, no tendrán la consideración de interesados: local. legalmente constituidas para velar por intereses profesionales o económicos y vecinales, cuando actúen en defensa de los que les son propios. de la entidad local a pesar de no habitar en el mismo.",
+        opciones: ['Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad', 'Los colegios oficiales, cámaras oficiales, sindicatos, asociaciones y demás entidades', 'Los habitantes en el territorio de la respectiva entidad local.', 'Los que puedan resultar afectados por desarrollar su actividad económica en el territorio'],
+        respuesta: "Los que puedan resultar afectados por desarrollar su actividad económica en el territorio"
     },
     {
-        pregunta: "Respecto a la evaluación del desempeño, regulado en el artículo 20 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, señale la incorrecta:",
-        opciones: ['Las Administraciones Públicas establecerán sistemas que permitan la evaluación del desempeño de sus empleados.', 'La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados.', 'Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación y se aplicarán sin tener en cuenta los derechos de los empleados públicos.', 'Las Administraciones Públicas determinarán los efectos de la evaluación en la carrera profesional horizontal, la formación, la provisión de puestos de trabajo y en la percepción de las retribuciones complementarias.'],
-        respuesta: "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación y se aplicarán sin tener en cuenta los derechos de los empleados públicos."
+        pregunta: "Según el artículo 218 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, el órgano interventor remitirá anualmente al Tribunal de Cuentas una serie de documentos, entre lo que no se encuentra: Pleno de la Corporación contrarios a los reparos formulados.",
+        opciones: ['Todas las resoluciones y acuerdos adoptados por el Presidente de la entidad Local y por el', 'Un resumen de las principales anomalías detectadas en materia de ingresos.', 'Un resumen de las principales anomalías detectadas en materia de gastos.', 'Los informes justificativos presentados por la Corporación Local.'],
+        respuesta: "Un resumen de las principales anomalías detectadas en materia de gastos."
     },
     {
-        pregunta: "El derecho de huelga se recoge en el artículo de la Constitución Española de 1978:",
-        opciones: ['7', '28', '37', '106'],
-        respuesta: "28"
+        pregunta: "El Presupuesto de las Entidades Locales será formado por:",
+        opciones: ['El Presidente.', 'La Unidad de Gestión Presupuestaria.', 'El Tesorero.', 'El Interventor.'],
+        respuesta: "El Presidente."
     },
     {
-        pregunta: "Clasificación del personal al Servicio de la Administración de la Junta de Andalucía, según el artículo 16 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía:",
-        opciones: ['Funcionarios, eventuales e interinos.', 'Funcionarios, eventuales, interinos y laborales.', 'Funcionarios, eventuales y laborales.', 'Funcionarios y laborales.'],
-        respuesta: "Funcionarios, eventuales, interinos y laborales."
+        pregunta: "Según el artículo 214 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto Refundido de la Ley Reguladora de las Haciendas Locales, el ejercicio de la función interventora comprenderá: subvenciones. producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.",
+        opciones: ['La intervención y comprobación formal de las inversiones y de la aplicación de las', 'La intervención crítica o previa de todo acto, documento o expediente susceptible de', 'La intervención material de del pago.', 'La intervención formal de la ordenación del pago.'],
+        respuesta: "La intervención y comprobación formal de las inversiones y de la aplicación de las"
     },
     {
-        pregunta: "¿A qué tipo de personal al servicio de la Administración de la Junta de Andalucía corresponde con la siguiente definición de acuerdo con la Ley 6/1985, de Ordenación de la Función Pública de la Junta de Andalucía: \"quienes ocupan puestos de trabajo expresamente calificados como de confianza o asesoramiento especial\"?",
-        opciones: ['Funcionarios, eventuales e interinos.', 'Eventuales', 'Interinos', 'Laborales'],
-        respuesta: "Eventuales"
+        pregunta: "Según el artículo 191 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la aprobación de la liquidación del presupuesto corresponde:",
+        opciones: ['Al Presidente de la Entidad Local, previo informe del Pleno de la Corporación.', 'Al Presidente de la Entidad Local, previo informe de la Tesorería.', 'Al Presidente de la Entidad Local, previo informe de la Secretaría.', 'Al Presidente de la Entidad Local, previo informe de la Intervención.'],
+        respuesta: "Al Presidente de la Entidad Local, previo informe de la Intervención."
     },
     {
-        pregunta: "De acuerdo con lo establecido en el artículo 20.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a la evaluación del desempeño de acuerdo con los sistemas de evaluación que cada Administración Pública determine:",
-        opciones: ['Dándose audiencia al interesado, y por la correspondiente resolución motivada.', 'Sin audiencia al interesado, y por la correspondiente resolución motivada.', 'Dándose audiencia al interesado sin necesidad de resolución motivada.', 'Sin audiencia al interesado, y sin necesidad de resolución.'],
-        respuesta: "Dándose audiencia al interesado, y por la correspondiente resolución motivada."
+        pregunta: "Los Estados de Gastos de los Presupuestos Generales de las Entidades Locales aplicarán la clasificación:",
+        opciones: ['Por Programas, Económica y Orgánica.', 'Orgánica y por Programas.', 'Económica y Orgánica.', 'Por Programas y Económica.'],
+        respuesta: "Por Programas y Económica."
     },
     {
-        pregunta: "De acuerdo con el artículo 22 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las retribuciones de los funcionarios de carrera se clasifican en:",
-        opciones: ['Básicas y complementarias.', 'Básicas y extraordinarias.', 'Básicas, complementarias y extraordinarias.', 'Sueldo y trienios.'],
-        respuesta: "Básicas y complementarias."
+        pregunta: "Al Presupuesto General de una Entidad Local, según dispone el art. 166 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, se unirán una serie de anexos, entre los que no se encuentra: presupuestos y estado de previsión de sus organismos autónomos. Entidad Local. Mercantiles de cuyo capital social sea titular único o partícipe mayoritario la Entidad Local. demás Entidades Locales de ámbito supramunicipal.",
+        opciones: ['El estado de consolidación del Presupuesto de la propia Entidad con el de todos los', 'El estado de ingresos y gastos de las Sociedades Mercantiles de capital exclusivo de la', 'Los Programas anuales de actuación, inversiones, y financiación de las Sociedades', 'Los Planes de Programas de Inversión y Financiación formulados por los Municipios y'],
+        respuesta: "El estado de ingresos y gastos de las Sociedades Mercantiles de capital exclusivo de la"
     },
     {
-        pregunta: "Retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo, y por su antigüedad en el mismo: (art. 22 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.):",
-        opciones: ['Pagas extraordinarias.', 'Retribuciones básicas y complementarias.', 'Retribuciones complementarias.', 'Retribuciones básicas.'],
-        respuesta: "Retribuciones básicas."
+        pregunta: "Según el artículo 191 del Real Decreto Legislativo 2/2004, de5 de marzo, por el que se aprueba el Texto Refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto de cada ejercicio se liquidará: año natural correspondiente, quedando a cargo de la Tesorería local los ingresos y pagos pendientes, según sus respectivas contracciones. del ejercicio siguiente. al año natural correspondiente. año natural correspondiente, quedando a cargo de la Tesorería local los ingresos y pagos pendientes, según sus respectivas contracciones.",
+        opciones: ['En cuanto a la recaudación de derechos y al pago de obligaciones el 31 de diciembre del', 'En cuanto a la recaudación de derechos y al pago de obligaciones el día primero de febrero', 'En cuanto a la recaudación de derechos y el pago de obligaciones el 20 de enero siguiente', 'En cuanto a la recaudación de derechos y al pago de obligaciones el 31 de diciembre del'],
+        respuesta: "En cuanto a la recaudación de derechos y al pago de obligaciones el 31 de diciembre del"
     },
     {
-        pregunta: "¿Qué dispone el artículo 92 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, respecto de los Funcionarios al servicio de la Administración Local?:",
-        opciones: ['Los funcionarios al servicio de la Administración local se rigen, en lo no dispuesto por esta Ley, por la legislación de La Comunidad Autónoma Correspondiente.', 'Con carácter ordinario, los puestos de trabajo serán desempeñados por personal funcionario e interinos.', 'Corresponde exclusivamente a los funcionarios de carrera al servicio de la Administración local el ejercicio de funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales.', 'Son funciones públicas aquellas cuyo ejercicio corresponde al personal que tenga la condición de funcionario o interino y que impliquen ejercicio de autoridad.'],
-        respuesta: "Corresponde exclusivamente a los funcionarios de carrera al servicio de la Administración local el ejercicio de funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales."
+        pregunta: "El artículo 170.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, establece expresamente los motivos por los que podrán entablarse reclamaciones contra el Presupuesto General de una Entidad Local. Entre dichos motivos no se encuentra: ley. alcanzar un determinado nivel de calidad en ciertos servicios. bien de estos respecto a las necesidades para las que esté previsto. local, en virtud de precepto legal o de cualquier otro título legítimo.",
+        opciones: ['Por no haberse ajustado su elaboración y aprobación a los trámites establecidos en esta', 'Por considerar que los créditos previstos en el Estado de ingresos no serán suficientes para', 'Por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados o', 'Por omitir el crédito necesario para el cumplimiento de obligaciones exigibles a la entidad'],
+        respuesta: "Por considerar que los créditos previstos en el Estado de ingresos no serán suficientes para"
     },
     {
-        pregunta: "Respecto a los funcionarios de administración local con habilitación de carácter nacional, regulado en la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, señale la opción incorrecta:",
-        opciones: ['La escala de funcionarios de administración local con habilitación de carácter nacional se subdivide en las siguientes subescalas: Secretaría, Intervención-tesorería, y Secretaría- intervención.', 'La aprobación de la oferta de empleo público, selección, formación y habilitación de los funcionarios de administración local con habilitación de carácter nacional corresponde al Estado, a través del Ministerio de Hacienda y Administraciones Públicas.', 'El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional.', 'En todo caso, el concurso- oposición será el sistema normal de provisión de puestos de trabajo. El ámbito territorial de los concursos- oposición será de carácter estatal.'],
-        respuesta: "En todo caso, el concurso- oposición será el sistema normal de provisión de puestos de"
+        pregunta: "Según el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto se considerará definitivamente aprobado si durante el plazo de exposición al público no se hubieran presentado reclamaciones; en caso contrario, el Pleno dispondrá para resolverlas:",
+        opciones: ['De un plazo de 20 días.', 'De un plazo de 40 días.', 'De un plazo de 15 días.', 'De un plazo de un mes.'],
+        respuesta: "De un plazo de un mes."
     },
     {
-        pregunta: "¿Cómo se lleva a cabo la selección de todo el personal, sea funcionario o laboral, según lo dispuesto en el artículo 91 de Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local? (Señale la más correcta)",
-        opciones: ['De acuerdo con la oferta de empleo público, mediante convocatoria pública, y a través del sistema de concurso, oposición o concurso-oposición libre.', 'Mediante el sistema de concurso o concurso- oposición, preferentemente.', 'Siempre a través de procesos selectivos en los que se garanticen los principios jurídicos de igualdad, mérito y capacidad, así como el de publicidad y transparencia.', 'De acuerdo con la oferta de empleo público, mediante convocatoria pública, a través del sistema de concurso, oposición o concurso-oposición libre, en los que se garanticen, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.'],
-        respuesta: "De acuerdo con la oferta de empleo público, mediante convocatoria pública, a través del"
+        pregunta: "Según se regula en el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado inicialmente el Presupuesto General de una Entidad Local, éste habrá de exponerse al público previo anuncio en: Boletín Oficial del Estado. municipal.",
+        opciones: ['el Boletín Oficial de la Provincia, o en su caso, de la comunidad autónoma uniprovincial.', 'el Boletín Oficial de la Provincia y en el Boletín Oficial de la comunidad Autónoma.', 'el Boletín Oficial de la Provincia, en el Boletín Oficial de la comunidad Autónoma, y en el', 'el Boletín Oficial de la Provincia y en uno de los diarios de mayor circulación en el término'],
+        respuesta: "el Boletín Oficial de la Provincia, o en su caso, de la comunidad autónoma uniprovincial."
     },
     {
-        pregunta: "A los efectos de la negociación colectiva de los funcionarios públicos, se constituirá una Mesa General de Negociación (artículo 34 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.):",
-        opciones: ['En el ámbito de las Administración General del Estado, así como en cada una de las Comunidades autónomas, Ciudades de Ceuta y Melilla y Entidades Locales.', 'En el ámbito de la Administración General del Estado, así como en cada una de las Comunidades autónomas y en las Ciudades de Ceuta y Melilla.', 'En el ámbito de la Administración General del Estado, así como en cada una de las Comunidades Autónomas.', 'En el ámbito de la Administración General del Estado.'],
-        respuesta: "En el ámbito de las Administración General del Estado, así como en cada una de las Comunidades autónomas, Ciudades de Ceuta y Melilla y Entidades Locales."
+        pregunta: "Facultades del personal controlador según dispone el artículo 222 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales: manera coordinada con la Intervención de la Entidad Local correspondiente. para llevar a efecto los controles financieros y de eficacia, ejercerán su función con plena independencia y podrán recabar cuantos antecedentes consideren necesarios. comprobación de todos los documentos económicos y técnicos que les faciliten los órganos correspondientes de la Entidad Local. solicitar de los responsables de su custodia, los informes y asesoramientos que estimen necesarios.",
+        opciones: ['Los funcionarios que tengan a su cargo la función interventora ejercerán su función de', 'Los funcionarios que tengan a su cargo la función interventora así como los que se designen', 'Los funcionarios que tengan a su cargo la función interventora podrán efectuar el examen y', 'Los funcionarios que tengan a su cargo la función interventora podrán verificar arqueos y'],
+        respuesta: "Los funcionarios que tengan a su cargo la función interventora así como los que se designen"
     },
     {
-        pregunta: "Los funcionarios de carrera se hallarán en alguna de las siguientes situaciones (señale la incorrecta): Artículo 85 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.:",
-        opciones: ['Excedencia.', 'Servicios especiales.', 'Expectativa de destino.', 'Suspensión de funciones.'],
-        respuesta: "Expectativa de destino."
+        pregunta: "Respecto al ámbito de aplicación y finalidad del control financiero a que se refiere el artículo 220 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, señale la respuesta incorrecta: presupuestario de los servicios de las entidades locales, de sus organismos autónomos y de las sociedades mercantiles de ellas dependientes. información financiera, del grado del cumplimiento de las normas y directrices que sean de aplicación y del grado de eficacia y eficiencia en la consecución de los objetivos previstos. normas de auditoría del sector público.",
+        opciones: ['El control financiero tendrá por objeto comprobar el funcionamiento en el aspecto', 'El control financiero tendrá por objeto informar acerca de la adecuada presentación de la', 'El control financiero se realizará por procedimientos de auditoría de acuerdo con las', 'Como resultado del control efectuado habrá de emitirse informe escrito.'],
+        respuesta: "El control financiero tendrá por objeto comprobar el funcionamiento en el aspecto"
     },
     {
-        pregunta: "Quienes, conforme a la normativa de función pública dictada en desarrollo del presente Estatuto, presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación, se hallarán en situación de:",
-        opciones: ['Excedencia.', 'Servicios especiales', 'Servicio activo.', 'Suspensión de funciones.'],
-        respuesta: "Servicio activo."
+        pregunta: "¿Qué tiene por objeto el control de eficacia, según dispone el artículo 221 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales? del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones. análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones. así como el análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones.",
+        opciones: ['La comprobación periódica del grado de cumplimiento de los objetivos, así como el análisis', 'La comprobación cada 3 meses del grado de cumplimiento de los objetivos, así como el', 'La comprobación anual del grado de cumplimiento de los objetivos, así como el análisis del', 'La comprobación cuando se estime necesario del grado de cumplimiento de los objetivos,'],
+        respuesta: "La comprobación periódica del grado de cumplimiento de los objetivos, así como el análisis"
     },
     {
-        pregunta: "¿A qué concepto se refiere la siguiente definición, tal y como establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \"Retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario\":",
-        opciones: ['Retribuciones básicas.', 'Retribuciones complementarias.', 'Retribuciones básicas y complementarias.', 'Pagas extraordinarias.'],
-        respuesta: "Retribuciones complementarias."
+        pregunta: "Según el artículo 219 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, no estarán sometidos a intervención previa: (Señale la opción incorrecta) de caja fija.",
+        opciones: ['Los gastos de material no inventariable.', 'Contratos menores.', 'Contratos de carácter no periódico.', 'Gastos menores de 3005,6 euros que se hagan efectivos a través del sistema de anticipos'],
+        respuesta: "Contratos de carácter no periódico."
     },
     {
-        pregunta: "Quienes se encuentren en situación de servicios especiales percibirán: (Artículo 87.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público):",
-        opciones: ['Las retribuciones que les correspondan como funcionario de carrera y no las del puesto o cargo que desempeñen, sin derecho a percibir los trienios que tengan reconocidos en cada momento.', 'Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento.', 'Las retribuciones que les correspondan como funcionarios de carrera y no las del puesto o cargo que desempeñen, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento.', 'Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin derecho a percibir los trienios que tengan reconocidos en cada momento.'],
-        respuesta: "Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento."
+        pregunta: "No constituye una fase de la gestión de los Presupuestos de Gastos de las Entidades Locales:",
+        opciones: ['Autorización del gasto.', 'Disposición del pago.', 'Reconocimiento de la obligación.', 'Ordenación del pago.'],
+        respuesta: "Disposición del pago."
     },
     {
-        pregunta: "Los órganos específicos de representación de los funcionarios son:",
-        opciones: ['Los Delegados de Personal.', 'Las Juntas de Personal.', 'Los Sindicatos.', 'Los Delegados de Personal y las Juntas de Personal.'],
-        respuesta: "Los Delegados de Personal y las Juntas de Personal."
+        pregunta: "Según el artículo 214 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la función interventora tendrá por objeto fiscalizar: (señale la incorrecta) con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso. obligaciones o gastos de contenido económico. reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico. económico de sociedades en que participen los organismos autónomos de las Entidades locales.",
+        opciones: ['La recaudación, inversión y aplicación, en general, de los caudales públicos administrados,', 'Los ingresos y pagos que se deriven del reconocimiento y liquidación de derechos y', 'Todos los actos de las Entidades Locales y de sus organismos autónomos que den lugar al', 'La ejecución de los actos que den lugar al reconocimiento de gastos de contenido'],
+        respuesta: "La ejecución de los actos que den lugar al reconocimiento de gastos de contenido"
     },
     {
-        pregunta: "¿A quién corresponde la selección de los funcionarios según el artículo 100 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local?",
-        opciones: ['A la Administración del Estado, en todo caso.', 'A la Corporación local respectiva.', 'Al Presidente de la Corporación local respectiva.', 'A la Corporación local respectiva, con la excepción de los funcionarios con habilitación de carácter nacional.'],
-        respuesta: "A la Corporación local respectiva, con la excepción de los funcionarios con habilitación de"
+        pregunta: "¿Cuándo deberá ser remitido al Pleno de la Corporación el Proyecto de Presupuesto General de la Entidad Local, para su aprobación, enmienda o devolución?:",
+        opciones: ['Antes del 1 de septiembre.', 'Antes del 31 de octubre.', 'Antes del 15 de octubre.', 'Antes del 30 de septiembre.'],
+        respuesta: "Antes del 15 de octubre."
     },
     {
-        pregunta: "Los funcionarios de carrera que, en virtud de los procesos de transferencias o por los procedimientos de provisión de puestos de trabajo, obtengan destino en una Administración Pública distinta, serán declarados en la situación de:",
-        opciones: ['Servicio en otras Administraciones Públicas.', 'Servicios especiales.', 'Excedencia.', 'Suspensión de funciones.'],
-        respuesta: "Servicio en otras Administraciones Públicas."
+        pregunta: "De las distintas fases de ejecución del gasto, no implica una relación con terceros externos a la Entidad Local:",
+        opciones: ['La ordenación del gasto.', 'La autorización del gasto.', 'La liquidación de la obligación.', 'El compromiso del gasto.'],
+        respuesta: "La autorización del gasto."
     },
     {
-        pregunta: "Según el artículo 89 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un:",
-        opciones: ['Período mínimo de 2 años inmediatamente anteriores.', 'Período mínimo de 3 años inmediatamente anteriores.', 'Período mínimo de 5 años inmediatamente anteriores.', 'Período mínimo de 10 años inmediatamente anteriores.'],
-        respuesta: "Período mínimo de 5 años inmediatamente anteriores."
+        pregunta: "Señale la respuesta correcta, respecto a la regulación en el artículo 193 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, sobre la Liquidación del presupuesto con remanente de tesorería negativo: corporación es el encargado de proceder, en la primera sesión que celebre, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido. podrá revocarse por el Interventor, previa propuesta del Presidente. podrá revocarse por el Presidente, previa propuesta del Pleno. corporación o el órgano competente del organismo autónomo, según corresponda, deberán proceder, en la primera sesión que celebren, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido.",
+        opciones: ['En caso de liquidación del presupuesto con remanente de tesorería negativo, el Pleno de la', 'La reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido solo', 'La reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido solo', 'En caso de liquidación del presupuesto con remanente de tesorería negativo, el Pleno de la'],
+        respuesta: "En caso de liquidación del presupuesto con remanente de tesorería negativo, el Pleno de la"
     },
     {
-        pregunta: "En la excedencia por cuidado de familiares, el puesto de trabajo desempeñado se reservará:",
-        opciones: ['Al menos, durante dos años. Transcurrido este período, dicha reserva lo será a un puesto en la misma localidad y de igual retribución.', 'Al menos, durante tres años. Transcurrido este período, dicha reserva lo será a un puesto en distinta localidad y de igual retribución.', 'Al menos, durante dos años. Transcurrido este período, dicha reserva lo será a un puesto en distinta localidad y de igual retribución.', 'Al menos, durante tres años. Transcurrido este periodo, dicha reserva lo será a un puesto en la misma localidad y de igual retribución.'],
-        respuesta: "Al menos, durante dos años. Transcurrido este período, dicha reserva lo será a un puesto en la misma localidad y de igual retribución."
+        pregunta: "Según dispone el artículo 171 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, contra la aprobación definitiva del Presupuesto General de una Entidad Local:",
+        opciones: ['Se podrá interponer Recurso Contencioso- Administrativo.', 'Solo se podrá interponer Recurso de Reposición.', 'Deberá de interponerse Recurso de Alzada.', 'Se interpondrá Recurso de Revisión ante el Pleno de la Corporación.'],
+        respuesta: "Se podrá interponer Recurso Contencioso- Administrativo."
     },
     {
-        pregunta: "Señale la respuesta correcta respecto a lo regulado en el artículo 47 bis \" teletrabajo\" del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
-        opciones: ['Se considera teletrabajo aquella modalidad de prestación de servicios en remoto, siempre que las necesidades del servicio lo permitan, fuera de las dependencias de la Administración, mediante el uso de tecnologías de la información y comunicación.', 'La prestación del servicio mediante teletrabajo habrá de ser expresamente autorizada y será compatible con la modalidad presencial. En todo caso, tendrá carácter obligatorio y reversible salvo en supuestos excepcionales debidamente justificados', 'El personal que preste sus servicios mediante teletrabajo tendrá los mismos deberes y derechos, individuales y colectivos, recogidos en el presente Estatuto que el resto del personal que preste sus servicios en modalidad presencial, sin incluir la normativa de prevención de riesgos laborales.', 'La Administración proporcionará y mantendrá a las personas que trabajen en esta modalidad, los medios tecnológicos necesarios para su actividad.'],
-        respuesta: "La Administración proporcionará y mantendrá a las personas que trabajen en esta"
+        pregunta: "¿Qué conceptos conforman el remanente de tesorería de la entidad local, según lo regulado en el artículo 191 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales? derechos pendientes de cobro y los fondos líquidos a 31 de diciembre.",
+        opciones: ['Todas las obligaciones reconocidas el último día del ejercicio.', 'Todos los derechos pendientes de cobro el último día del ejercicio.', 'Las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los', 'Los derechos pendientes de cobro a 31 de diciembre.'],
+        respuesta: "Las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los"
     },
     {
-        pregunta: "Según dispone el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, si en una unidad electoral hay 125 funcionarios, el número de presentantes de la Junta de Personal será:",
-        opciones: ['5', '9', '13', '17'],
-        respuesta: "9"
+        pregunta: "De acuerdo con el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, el plazo durante el cual estará expuesto al público el Presupuesto General de una Entidad Local, durante el cual los interesados podrán presentar reclamaciones, será de:",
+        opciones: ['Veinte días hábiles.', 'Quince días.', 'Treinta días hábiles.', 'Un mes.'],
+        respuesta: "Quince días."
     },
     {
-        pregunta: "¿Cuáles son las causas por las que pierde la condición de funcionario de carrera de la Administración local según dispone el art. 138 del RDL 781/1986, de 18 de abril?",
-        opciones: ['Renuncia, pérdida de la nacionalidad española, multa de separación del servicio, imposición de la pena de inhabilitación absoluta o especial y por jubilación forzosa o voluntaria.', 'Renuncia, pérdida de la nacionalidad española, imposición de la pena de inhabilitación absoluta o especial y por jubilación voluntaria.', 'Renuncia, pérdida de la nacionalidad española, sanción disciplinaria de separación del servicio, por imposición de la pena de inhabilitación absoluta o especial y por jubilación forzosa o voluntaria.', 'Renuncia de la nacionalidad española, sanción disciplinaria de separación del servicio, por imposición de la pena de inhabilitación absoluta y por jubilación forzosa.'],
-        respuesta: "Renuncia, pérdida de la nacionalidad española, sanción disciplinaria de separación del servicio, por imposición de la pena de inhabilitación absoluta o especial y por jubilación forzosa o voluntaria."
+        pregunta: "La norma que regula la estructura Presupuestaria de las Entidades Locales es:",
+        opciones: ['La Orden de 3 de diciembre de 2008.', 'La Orden de 20 de septiembre de 1989.', 'El RD 500/1990 de 10 de septiembre.', 'El RD 500/1900 de 15 de mayo.'],
+        respuesta: "La Orden de 3 de diciembre de 2008."
     },
     {
-        pregunta: "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cómo se establecen la cuantía y estructura de las retribuciones complementarias de los funcionarios?",
-        opciones: ['Las determina el Gobierno.', 'Se establecerán por las correspondientes leyes de cada Administración Pública.', 'Por la Ley de Presupuestos Generales del Estado.', 'Por los órganos de gobierno de las Comunidades Autónomas.'],
-        respuesta: "Se establecerán por las correspondientes leyes de cada Administración Pública."
+        pregunta: "Según el artículo 186 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, ¿a quién le corresponde las funciones de ordenación de pagos?",
+        opciones: ['Al Presidente de la Entidad Local.', 'Al Presidente de la Entidad Local, previo informe de la Tesorería.', 'Al Pleno de la Entidad Local.', 'Al Pleno y al Presidente de la Entidad Local conjuntamente.'],
+        respuesta: "Al Presidente de la Entidad Local."
     },
     {
-        pregunta: "Según dispone el artículo 30 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \" Quiénes ejerciten el derecho de huelga:\"",
-        opciones: ['Devengarán y percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación y no se verá afectado al régimen respectivo de sus prestaciones sociales.', 'Devengarán y percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación pero si afectará al régimen respectivo de sus prestaciones sociales.', 'No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales.', 'No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación con carácter de sanción, y afectará al régimen respectivo de sus prestaciones sociales.'],
-        respuesta: "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales."
+        pregunta: "Según el artículo 213 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, los órganos interventores de las Entidades Locales remitirán a la Intervención General de la Administración del Estado un informe resumen de los resultados de los controles desarrollados en cada ejercicio: cada tres año.",
+        opciones: ['Cuando sea requerido por la Intervención General, debiendo emitirse informe, al menos,', 'Con carácter anual.', 'Con carácter bianual.', 'Con carácter semestral.'],
+        respuesta: "Con carácter anual."
     },
     {
-        pregunta: "¿Cómo se determinan los intervalos de niveles que corresponden a los Cuerpos de cada Grupo, según dispone la Ley de Función Pública de la Junta de Andalucía?",
-        opciones: ['Mediante acuerdo del Consejo de Gobierno.', 'Mediante Ley.', 'Mediante Reglamento.', 'Mediante Decreto del Consejo de Gobierno.'],
-        respuesta: "Mediante Decreto del Consejo de Gobierno."
+        pregunta: "Respecto al Procedimiento de elaboración y aprobación inicial regulado en el artículo 168 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en el apartado 2 se establece que el Presupuesto de cada uno de los Organismos Autónomos que integran el Presupuesto General de la Entidad Local, una vez aprobado por el órgano competente, será remitido a la entidad Local de la que dependa:",
+        opciones: ['Antes del 1 de julio.', 'Antes del 15 de septiembre.', 'Antes del 15 de mayo.', 'antes del 1 de junio.'],
+        respuesta: "Antes del 15 de septiembre."
     },
     {
-        pregunta: "La siguiente definición: \" la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados\", ¿a cuál de los siguientes conceptos se refiere según se regula en el artículo 31 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?:",
-        opciones: ['Representación.', 'Negociación colectiva.', 'Participación institucional.', 'Participación sindical.'],
-        respuesta: "Representación."
+        pregunta: "Según el artículo 164 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en relación al principio de universalidad establece que: que se integrarán el presupuesto de la propia Entidad, los de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la Entidad Local. que se integrarán el presupuesto de la propia Entidad, los de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles gestionadas por la Entidad Local. que se integrarán el presupuesto de la propia Entidad, los de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles financiadas por la Entidad Local. que se integrarán el presupuesto de la propia Entidad, los de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca mayoritariamente a la Entidad Local.",
+        opciones: ['Las Entidades Locales elaborarán y aprobarán anualmente un presupuesto general en el', 'Las Entidades Locales elaborarán y aprobarán anualmente un presupuesto general en el', 'Las Entidades Locales elaborarán y aprobarán anualmente un presupuesto general en el', 'Las Entidades Locales elaborarán y aprobarán anualmente un presupuesto general en el'],
+        respuesta: "Las Entidades Locales elaborarán y aprobarán anualmente un presupuesto general en el"
     },
     {
-        pregunta: "Clases de empleados públicos según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
-        opciones: ['Funcionarios, Interinos, Laborales y eventuales.', 'Funcionarios de carrera, Funcionarios interinos, Personal laboral (fijo, por tiempo indefinido o temporal), y Personal eventual.', 'Funcionarios de carrera e interinos, personal laboral fijo, y personal eventual.', 'Funcionarios de carrera, Funcionarios interinos, Personal laboral (fijo, por tiempo indefinido o temporal), Personal eventual y personal directivo profesional.'],
-        respuesta: "Funcionarios de carrera, Funcionarios interinos, Personal laboral (fijo, por tiempo indefinido o temporal), y Personal eventual."
+        pregunta: "Según establece el artículo 184 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la gestión del presupuesto de gastos de realizará en las siguientes fases: obligación. la obligación y ordenación de pago.",
+        opciones: ['Ordenación de pago; autorización de gasto; disposición de gasto y reconocimiento de la', 'Autorización de gasto; disposición o compromiso de gasto; reconocimiento o liquidación de', 'Autorización de gasto; compromiso de gasto y ordenación de pago.', 'Compromiso de gasto; liquidación de la obligación y ordenación de pago.'],
+        respuesta: "Autorización de gasto; disposición o compromiso de gasto; reconocimiento o liquidación de"
     },
     {
-        pregunta: "Dispone el artículo del 50 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: Los funcionarios tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
-        opciones: ['20 días hábiles.', '22 días hábiles.', '1 mes.', '30 días.'],
-        respuesta: "22 días hábiles."
+        pregunta: "Dispone el artículo 213 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, que las normas sobre los procedimientos de control, metodología de aplicación, criterios de actuación, derechos y deberes del personal controlador y destinatarios de los informes de control: Hacienda. Administraciones Públicas. Estado. Territoriales.",
+        opciones: ['Serán establecidas por el Ministerio de la Presidencia a propuesta del Ministerio de', 'Serán establecidas por el Gobierno a propuesta del Ministerio de Hacienda y', 'Serán establecidas por el Ministerio de Hacienda a propuesta de la Intervención General del', 'Serán establecidas por el Gobierno a propuesta del Ministerios de Administraciones'],
+        respuesta: "Serán establecidas por el Gobierno a propuesta del Ministerio de Hacienda y"
     },
     {
-        pregunta: "Tal y como establece el artículo 23 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, respecto de las retribuciones básicas que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por:",
-        opciones: ['Sueldo.', 'Sueldo, trienios y retribuciones complementarias.', 'Sueldo y trienios.', 'Sueldo y retribuciones complementarias.'],
-        respuesta: "Sueldo y trienios."
+        pregunta: "Según el artículo 32 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, el término presupuesto para el ámbito público estatal, se define como: durante el ejercicio para cada uno de los órganos y entidades que formen parte del Sector Público Estatal. ejercicio por cada uno de los órganos y entidades que formen parte del Sector Público Estatal. durante el ejercicio por cada uno de los órganos que formen parte del sector Público Estatal. ejercicio por cada uno de los órganos y entidades que formen parte del Sector Público.",
+        opciones: ['La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar', 'La expresión cifrada y sistemática de los derechos y obligaciones a liquidar durante el', 'La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar', 'La expresión cifrada, conjunta y sistemática de las obligaciones a liquidar durante el'],
+        respuesta: "La expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar"
     },
     {
-        pregunta: "Dispone el artículo 18 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público: \" Consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior\". De las siguientes, ¿A qué concepto se refiere dicha definición?:",
-        opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
-        respuesta: "Promoción interna vertical."
+        pregunta: "Según el artículo 217 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, corresponderá al Pleno la resolución de las discrepancias cuando los reparos:",
+        opciones: ['Se basen en insuficiencia de crédito.', 'Se basen en inadecuación de crédito.', 'Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.', 'Se refieran a obligaciones o gastos cuya aprobación no sea de su competencia.'],
+        respuesta: "Se refieran a obligaciones o gastos cuya aprobación no sea de su competencia."
     },
     {
-        pregunta: "Según el artículo 52 Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, Los empleados Públicos:",
-        opciones: ['No aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades públicas.', 'Se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con otro puesto público.', 'Actuarán de acuerdo con los principios de eficacia, economía y eficiencia, y vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización.', 'Cumplirán con diligencia las tareas que les correspondan o se les encomienden y, en su caso, resolverán dentro del plazo los procedimientos o expedientes que no sean de su competencia.'],
-        respuesta: "Actuarán de acuerdo con los principios de eficacia, economía y eficiencia, y vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización."
+        pregunta: "La clasificación por programas del Estado de Gastos se divide con carácter general en tres niveles, sin perjuicio de la ampliación, en ciertos casos, prevista en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales. Estos tres niveles son:",
+        opciones: ['Concepto, Política de Gasto y Grupo de Programa.', 'Artículo, Programa y subprograma.', 'Área de Gasto, Política de Gasto y Grupo de Programa.', 'Capítulo, Programa y Política de Gasto.'],
+        respuesta: "Área de Gasto, Política de Gasto y Grupo de Programa."
     },
     {
-        pregunta: "Respecto a la suspensión de funciones regulada en el artículo 90 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
-        opciones: ['El funcionario declarado en la situación d suspensión quedará privado durante el tiempo de permanencia en la misma del ejercicio de sus funciones y de todos los derechos inherentes a la condición.', 'La suspensión determinará la pérdida del puesto de trabajo cuando exceda de 6 años.', 'La suspensión no podrá imponerse en virtud de sanción disciplinaria.', 'La suspensión firme por sanción disciplinaria no podrá exceder de 6 meses.'],
-        respuesta: "El funcionario declarado en la situación d suspensión quedará privado durante el tiempo de permanencia en la misma del ejercicio de sus funciones y de todos los derechos inherentes a la condición."
+        pregunta: "Dispone el artículo 213 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, que el control interno en las Entidades Locales respecto de su gestión económica comprenderá: función de control de la eficacia. y función de control de la eficacia.",
+        opciones: ['La función de control financiero y contable y la función de auditoría.', 'La función interventora, la función de control financiero, incluida la auditoría de cuentas, y', 'La función interventora y la función de control financiero y contable.', 'La función interventora, la función de control financiero, sin incluir la auditoría de cuentas,'],
+        respuesta: "La función interventora, la función de control financiero, incluida la auditoría de cuentas, y"
     },
     {
-        pregunta: "Según el artículo 22.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las pagas extraordinarias serán dos al año, cada una por el importe de:",
-        opciones: ['Una mensualidad de retribuciones básicas.', 'Una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias.', 'Una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las que se refieren a la progresión alcanzada por el funcionario dentro del sistema de carrera administrativa y los servicios extraordinarios prestados fuera de la jornada normal de trabajo.', 'Una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las que se refieren a el grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos y los servicios extraordinarios prestados fuera de la jornada normal de trabajo.'],
-        respuesta: "Una mensualidad de retribuciones básicas y de la totalidad de las retribuciones"
+        pregunta: "Según el artículo 216 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, si el reparo afecta a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, se suspenderá la tramitación del expediente hasta que aquél sea solventado en los siguientes casos: adquisiciones y servicios.",
+        opciones: ['Cuando se base en dilación de la tramitación del crédito.', 'Cuando hubieran sido fiscalizados los actos que dieron origen a las órdenes de pago.', 'En los casos de omisión en el expediente re requisitos o trámites que no sean esenciales.', 'Cuando el reparo derive de comprobaciones materiales de obras, suministros,'],
+        respuesta: "Cuando el reparo derive de comprobaciones materiales de obras, suministros,"
     },
     {
-        pregunta: "De los siguientes, ¿cuál no es un derecho individual de los empleados públicos, según lo regulado en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
-        opciones: ['Percibir las retribuciones e indemnizaciones por razón del servicio.', 'Defensa jurídica y protección de la Administración Pública.', 'Libertad sindical.', 'Libre asociación profesional.'],
-        respuesta: "Libertad sindical."
+        pregunta: "Según el artículo 215 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular:",
+        opciones: ['Su impugnación por escrito en el acto de adopción del acuerdo o resolución.', 'Su conclusión por escrito en el acto de adopción del acuerdo o resolución.', 'Sus reparos por escrito antes de la adopción del acuerdo o resolución.', 'Sus alegaciones por escrito en la propuesta de adopción del acuerdo o resolución.'],
+        respuesta: "Sus reparos por escrito antes de la adopción del acuerdo o resolución."
     },
     {
-        pregunta: "Teniendo en cuenta lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de las siguientes opciones se corresponde con la siguiente definición: \"consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo\"?",
-        opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
-        respuesta: "Carrera horizontal."
+        pregunta: "Respecto al presupuesto general definitivamente aprobado, tal y como dispone el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, no es cierto afirmar que: diciembre del año anterior al del ejercicio en que deba aplicarse. corporación, si lo tuviera, y resumido, por epígrafes y artículos de cada uno de los presupuestos que lo integran, en el de la provincia, o en su caso, de la comunidad autónoma uniprovincial. autónoma.",
+        opciones: ['La aprobación definitiva del presupuesto general habrá de realizarse antes del 31 de', 'El Presupuesto general definitivamente aprobado, será insertado en el boletín oficial de la', 'Se remitirá copia a la Administración del Estado y a la correspondiente comunidad', 'La aprobación definitiva del presupuesto general le corresponde al Pleno de la Corporación.'],
+        respuesta: "El Presupuesto general definitivamente aprobado, será insertado en el boletín oficial de la"
     },
     {
-        pregunta: "Las retribuciones básicas de los funcionarios, según la normativa vigente, son:",
-        opciones: ['Sueldo y paga extraordinaria.', 'Sueldo y trienios.', 'Sueldo, trienios y pagas extraordinarias.', 'Sueldo, trienios y complementos.'],
-        respuesta: "Sueldo, trienios y pagas extraordinarias."
+        pregunta: "De acuerdo con el principio de anualidad, dispone el artículo 163 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, que el ejercicio presupuestario coincidirá con el año natural y a él se imputarán: reconocidas durante el ejercicio. obligaciones vencidas durante el ejercicio. obligaciones reconocidas durante el ejercicio. deriven y las obligaciones reconocidas y exigibles durante el ejercicio.",
+        opciones: ['Los derechos liquidados en el ejercicio que se deriven de ese período y las obligaciones', 'Los derechos liquidados en el ejercicio, cualquiera que sea el período de que deriven, y las', 'Los derechos liquidados en el ejercicio, cualquiera que sea el período de que deriven, y las', 'Los derechos líquidos y vencidos en el ejercicio, cualquiera que sea el período de que'],
+        respuesta: "Los derechos liquidados en el ejercicio, cualquiera que sea el período de que deriven, y las"
     },
     {
-        pregunta: "¿Cuál de los siguientes criterios se han de tener en cuenta para la designación de personal directivo profesional al servicio de la Administración Pública, según dispone el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
-        opciones: ['Criterios de idoneidad y los principios de mérito y capacidad.', 'Principios de mérito, capacidad e igualdad.', 'Que sea la persona más idónea para el puesto.', 'Principios de mérito y capacidad, criterios de idoneidad y procedimientos que garanticen la publicidad y concurrencia.'],
-        respuesta: "Principios de mérito y capacidad, criterios de idoneidad y procedimientos que garanticen la"
+        pregunta: "De acuerdo con el artículo 168 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, al Presupuesto formado de una Entidad Local, debe unirse una serie de documentación entre la que no se encuentra: mismo.",
+        opciones: ['Anexo del personal de las sociedades mercantiles dependientes de la Entidad Local.', 'Avance de la liquidación del Presupuesto corriente, referida, al menos, a 6 meses del', 'Liquidación del Presupuesto del ejercicio anterior.', 'Anexo de las inversiones a realizar durante el ejercicio.'],
+        respuesta: "Anexo del personal de las sociedades mercantiles dependientes de la Entidad Local."
     },
     {
-        pregunta: "¿Con qué clase de empleado público encaja la siguiente definición, según se regula en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?: \" Los que por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias: Exceso o acumulación de tareas, ejecución de programas de carácter temporal.[entre otras]\":",
-        opciones: ['Personal laboral de carácter temporal.', 'Personal eventual.', 'Funcionario interino.', 'Personal laboral de carácter fijo.'],
-        respuesta: "Funcionario interino."
+        pregunta: "Según el artículo 164 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, los organismos autónomos de las Entidades Locales se clasifican, a efectos de su régimen presupuestario y contable, en la forma siguiente: carácter comercial, industrial, financiero o análogo. análogo. comercial, industrial, financiero o análogo.",
+        opciones: ['Organismos autónomos destinados a la recaudación local y organismos autónomos de', 'Organismos de carácter administrativo tributario, comercial, industrial, financiero o', 'Organismos autónomos de carácter administrativo y organismos autónomos de carácter', 'Organismos autónomos de carácter financiero y administrativos.'],
+        respuesta: "Organismos autónomos de carácter administrativo y organismos autónomos de carácter"
     },
     {
-        pregunta: "Son empleados públicos, según dispone el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
-        opciones: ['Quienes desempeñan funciones retribuidas en las Administraciones Públicas o Privadas al servicio de los intereses generales.', 'Quienes desempeñan funciones retribuidas o no en las Administraciones Públicas al servicio de los intereses públicos.', 'Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.', 'Quienes desempeñan funciones retribuidas o no en las Administraciones Públicas o Privadas al servicio de los intereses públicos.'],
-        respuesta: "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+        pregunta: "Según el artículo 216 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, cuando la disconformidad se refiera al reconocimiento o liquidación de derechos a favor de las Entidades Locales o sus organismos autónomos, la oposición se formalizará: que deriven los derechos. tramitación del expediente.",
+        opciones: ['En nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.', 'En nota de alegaciones que instará el examen de toda la documentación del expediente del', 'En nota de reparo que, potestativamente, a criterio de la Intervención podrá suspender la', 'En nota de reparo que suspenderá la tramitación del expediente.'],
+        respuesta: "En nota de reparo que, en ningún caso, suspenderá la tramitación del expediente."
     },
     {
-        pregunta: "Corresponden exclusivamente a los funcionarios públicos, de acuerdo con lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.:",
-        opciones: ['El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas de las Comunidades Autónomas.', 'El ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas de las Comunidades Autónomas.', 'El ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.', 'El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.'],
-        respuesta: "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio"
+        pregunta: "Aprobado definitivamente el Presupuesto General de una Entidad Local, éste habrá de publicarse, sin perjuicio de otros lugares previstos en el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en el Boletín Oficial de la Provincia, resumido, cada uno de los presupuestos que lo integren, por:",
+        opciones: ['Conceptos.', 'Partidas.', 'Artículos.', 'Capítulos.'],
+        respuesta: "Capítulos."
     },
     {
-        pregunta: "Los funcionarios de carrera se rigen en sus relaciones con la Administración por lo dispuesto en:",
-        opciones: ['El derecho mercantil y administrativo.', 'El derecho laboral.', 'El derecho administrativo.', 'Todo el ordenamiento jurídico.'],
-        respuesta: "El derecho administrativo."
+        pregunta: "Según el artículo 168.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, las Sociedades Mercantiles, incluso aquellas en cuyo capital sea mayoritaria la participación de la entidad Local remitirá a ésta sus previsiones de ingresos y gastos a fin de que se integre en el Presupuesto General de la Entidad Local:",
+        opciones: ['Antes del 1 de junio.', 'Antes del 15 de mayo.', 'Antes del 1 de julio.', 'Antes del 15 de septiembre.'],
+        respuesta: "Antes del 15 de septiembre."
     },
     {
-        pregunta: "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, no es un derecho individual de los empleados públicos que se ejerce de forma colectiva:",
-        opciones: ['La libertad sindical.', 'La formación continua.', 'La negociación colectiva y a la participación en la determinación de las condiciones de trabajo.', 'El ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad.'],
-        respuesta: "La formación continua."
+        pregunta: "¿De qué plazo dispone el Pleno en el caso de que los interesados hayan presentado reclamaciones respecto a la aprobación inicial del presupuesto general al que se refiere el artículo 169 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales?:",
+        opciones: ['Un mes.', 'Dos meses.', '30 días.', '20 días.'],
+        respuesta: "Un mes."
     },
     {
-        pregunta: "La selección de funcionarios interinos habrá de realizarse mediante procedimientos ágiles que respetarán en todo caso los principios de: (Artículo 10 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público):",
-        opciones: ['Igualdad, mérito capacidad y publicidad.', 'Mérito, capacidad y publicidad.', 'Igualdad, mérito y capacidad.', 'Mérito y capacidad.'],
-        respuesta: "Igualdad, mérito capacidad y publicidad."
+        pregunta: "Los Planes y Programas de inversión que formulen los Municipios y se incorporen como anexo al presupuesto se efectuarán, según dispone el a artículo 166 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, para el plazo de:",
+        opciones: ['Cinco años.', 'Dos años.', 'Cuatro años.', 'Tres años.'],
+        respuesta: "Cuatro años."
     },
     {
-        pregunta: "Respecto al personal eventual (señale la incorrecta):",
-        opciones: ['El nombramiento y cese serán libres.', 'El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.', 'La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.', 'Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera.'],
-        respuesta: "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública o para la promoción interna."
+        pregunta: "La clasificación Económica a nivel de gastos se dividen con carácter general, sin perjuicios de la ampliación prevista en el artículo 167 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en tres niveles, a saber:",
+        opciones: ['Partida, Artículo y Concepto.', 'Concepto, Subconcepto y Artículo.', 'Artículo, Capítulo y Partidas.', 'Concepto, Artículo y Capítulo.'],
+        respuesta: "Concepto, Artículo y Capítulo."
     },
     {
-        pregunta: "El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, se aplicará:",
-        opciones: ['Sólo al personal de las Administraciones públicas incluido en su ámbito de aplicación.', 'Con carácter supletorio a todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.', 'Con carácter supletorio al personal laboral al servicio de la Administración General del Estado.', 'Con carácter supletorio al personal laboral al servicio de las Administraciones de las entidades Locales.'],
-        respuesta: "Con carácter supletorio a todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación."
-    },
-    {
-        pregunta: "El Título V del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, se denomina:",
-        opciones: ['Ordenación de la actividad profesional.', 'Situaciones administrativas.', 'Derechos y deberes. Código de conducta de los empleados públicos.', 'Adquisición y pérdida de la relación de servicio.'],
-        respuesta: "Ordenación de la actividad profesional."
-    },
-    {
-        pregunta: "Las necesidades de recursos humanos, con asignación presupuestaria, que deban proveerse mediante la incorporación de personal de nuevo ingreso serán objeto de la Oferta de empleo público, o a través de otro instrumento similar de gestión de la provisión de las necesidades de personal, lo que comportará la obligación de convocar los correspondientes procesos selectivos para las plazas comprometidas y:",
-        opciones: ['Hasta un 10% adicional, fijando el plazo máximo para la convocatoria de los mismos.', 'Hasta un 20% adicional, fijando el plazo máximo para la convocatoria de los mismos.', 'Hasta un 30% adicional, fijando el plazo máximo para la convocatoria de los mismos.', 'Hasta un 40% adicional, fijando el plazo máximo para la convocatoria de los mismos.'],
-        respuesta: "Hasta un 10% adicional, fijando el plazo máximo para la convocatoria de los mismos."
-    },
-    {
-        pregunta: "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de:",
-        opciones: ['1 año.', '2 años.', '3 años.', '4 años.'],
-        respuesta: "3 años."
-    },
-    {
-        pregunta: "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por:",
-        opciones: ['Ley de las Cortes Generales.', 'Decretos legislativos.', 'Decreto-ley.', 'Ley de las Cortes Generales y Ley de las Asambleas Legislativas de las Comunidades Autónomas.'],
-        respuesta: "Ley de las Cortes Generales y Ley de las Asambleas Legislativas de las Comunidades"
-    },
-    {
-        pregunta: "Para el acceso a los cuerpos o escalas del Grupo C2 se exigirá estar en posesión de:",
-        opciones: ['Título universitario de Grado.', 'Título Técnico Superior.', 'Título de bachiller o técnico.', 'Título de graduado en educación secundaria obligatoria.'],
-        respuesta: "Título de graduado en educación secundaria obligatoria."
-    },
-    {
-        pregunta: "Las Administraciones Públicas, según dispone el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, proveerán los puestos de trabajo mediante procedimientos basados en los principios de:",
-        opciones: ['Mérito y capacidad.', 'Igualdad, mérito y capacidad.', 'Mérito, capacidad y publicidad.', 'Igualdad, mérito, capacidad y publicidad.'],
-        respuesta: "Igualdad, mérito, capacidad y publicidad."
-    },
-    {
-        pregunta: "Consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico:",
-        opciones: ['El concurso.', 'La oposición.', 'El concurso- oposición.', 'La libre designación.'],
-        respuesta: "El concurso."
-    },
-    {
-        pregunta: "Consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto:",
-        opciones: ['El concurso.', 'La oposición.', 'El concurso- oposición.', 'La libre designación.'],
-        respuesta: "La libre designación."
-    },
-    {
-        pregunta: "Establecerá/n los criterios para determinar los puestos que por su especial responsabilidad y confianza pueden cubrirse por el procedimiento de libre designación con convocatoria pública:",
-        opciones: ['El Consejo de Ministros.', 'Las Leyes de Función Pública que se dicten en desarrollo del presente Estatuto.', 'El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.', 'Un reglamento.'],
-        respuesta: "Las Leyes de Función Pública que se dicten en desarrollo del presente Estatuto."
-    },
-    {
-        pregunta: "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán respecto de su Administración de origen en la situación administrativa de:",
-        opciones: ['Excedencia.', 'Servicio en otras Administraciones Públicas.', 'Servicios especiales.', 'Suspensión de funciones.'],
-        respuesta: "Servicio en otras Administraciones Públicas."
-    },
-    {
-        pregunta: "Respecto a la movilidad voluntaria entre Administraciones Públicas, en el supuesto de cese del puesto obtenido por libre designación, la Administración de destino, podrá acordar la adscripción del funcionario a otro puesto de la misma o le comunicará que no va a hacer efectiva dicha adscripción:",
-        opciones: ['En el plazo máximo de 10 días contar desde el día del cese.', 'En el plazo máximo de un mes a contar desde el día siguiente al cese.', 'En el plazo máximo de un mes a contar desde el día del cese.', 'En el plazo máximo de 10 días a contar desde el día siguiente al del cese.'],
-        respuesta: "En el plazo máximo de un mes a contar desde el día siguiente al cese."
-    },
-    {
-        pregunta: "Respecto a la movilidad voluntaria entre Administraciones Públicas, de no solicitarse el reingreso al servicio activo en el plazo indicado será declarado de oficio en:",
-        opciones: ['Situación de excedencia voluntaria por interés particular.', 'Servicio en otras Administraciones Públicas.', 'Servicios especiales.', 'Suspensión de funciones.'],
-        respuesta: "Situación de excedencia voluntaria por interés particular."
-    },
-    {
-        pregunta: "El Título III del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, se denomina:",
-        opciones: ['Clases de personal al servicio de las Administraciones Públicas.', 'Objeto y ámbito de aplicación.', 'Derechos y deberes. Código de conducta de los empleados públicos.', 'Adquisición y pérdida de la relación de servicio.'],
-        respuesta: "Derechos y deberes. Código de conducta de los empleados públicos."
-    },
-    {
-        pregunta: "Es un derecho individual de los empleados públicos que se ejerce de forma colectiva:",
-        opciones: ['El planeamiento de conflictos colectivos de trabajo.', 'La adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral.', 'La libre asociación profesional.', 'La libertad de expresión dentro de los límites del ordenamiento jurídico.'],
-        respuesta: "El planeamiento de conflictos colectivos de trabajo."
-    },
-    {
-        pregunta: "Consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo:",
-        opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
-        respuesta: "Carrera horizontal."
-    },
-    {
-        pregunta: "Consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el Capítulo III del título V del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
-        opciones: ['Promoción interna vertical.', 'Promoción interna horizontal.', 'Carrera horizontal.', 'Carrera vertical.'],
-        respuesta: "Carrera vertical."
-    },
-    {
-        pregunta: "Los funcionarios de carrera podrán progresar simultáneamente en las modalidades de:",
-        opciones: ['Carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.', 'Promoción interna horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.', 'Promoción interna vertical y carrera vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.', 'Carrera horizontal y promoción interna vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.'],
-        respuesta: "Carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito."
-    },
-    {
-        pregunta: "Retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario:",
-        opciones: ['Las retribuciones básicas.', 'Las retribuciones complementarias.', 'Las retribuciones básicas y complementarias.', 'Las pagas extraordinarias.'],
-        respuesta: "Las retribuciones complementarias."
-    },
-    {
-        pregunta: "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por:",
-        opciones: ['Las correspondientes leyes de cada Administración Pública.', 'El Gobierno.', 'La Ley de Presupuestos Generales del Estado.', 'Los órganos de gobierno de las Comunidades Autónomas.'],
-        respuesta: "Las correspondientes leyes de cada Administración Pública."
-    },
-    {
-        pregunta: "La negociación colectiva de condiciones de trabajo de los funcionarios públicos estará sujeta a los principios de:",
-        opciones: ['Legalidad, cobertura presupuestaria, voluntariedad, buena fe negocial, publicidad y concurrencia.', 'Seguridad jurídica, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y concurrencia.', 'Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.', 'Seguridad jurídica, cobertura presupuestaria, voluntariedad, buena fe negocial, publicidad y transparencia.'],
-        respuesta: "Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia."
-    },
-    {
-        pregunta: "Conforme al artículo 93 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido:",
-        opciones: ['En el Título VIII del TREBEP y en las normas que las leyes de Función Pública dicten en desarrollo del Estatuto.', 'En el Título I del TREBEP.', 'En el Título VII del TREBEP y en las normas que las leyes de Función Pública dicten en desarrollo del EBEP.', 'En el Capítulo I del título VII del TREBEP y en las normas que las leyes de Función Pública dicten en desarrollo del Estatuto.'],
-        respuesta: "En el Título VII del TREBEP y en las normas que las leyes de Función Pública dicten en desarrollo del EBEP."
-    },
-    {
-        pregunta: "De acuerdo con el artículo 93.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el régimen disciplinario del personal laboral se regirá:",
-        opciones: ['Exclusivamente por lo previsto en el TREBEP.', 'En lo no previsto en el Título VII del TREBEP, por la legislación laboral.', 'Exclusivamente por lo previsto en la legislación laboral.', 'En lo no previsto en la legislación laboral, por el Título VII del TREBEP.'],
-        respuesta: "En lo no previsto en el Título VII del TREBEP, por la legislación laboral."
-    },
-    {
-        pregunta: "De acuerdo con el artículo 94.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad:",
-        opciones: ['Se suspenderá al funcionario y se pondrá en conocimiento de su superior.', 'Se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.', 'Se suspenderá su tramitación poniéndolo en conocimiento de los Cuerpos de Seguridad.', 'Nunca se suspende la tramitación del procedimiento.'],
-        respuesta: "Se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal."
-    },
-    {
-        pregunta: "Conforme al artículo 94 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, y en relación con la potestad disciplinaria, los hechos declarados probados por resoluciones judiciales firmes:",
-        opciones: ['Podrán vincular a la Administración si así lo recoge la sentencia.', 'No vinculan a la Administración.', 'Vinculan a la Administración.', 'Podrán ser tenidos en cuenta por la Administración.'],
-        respuesta: "Vinculan a la Administración."
-    },
-    {
-        pregunta: "Según el artículo 95 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las faltas disciplinarias pueden ser:",
-        opciones: ['Muy graves, graves y simples.', 'Muy graves, graves y leves.', 'Extremadamente graves, muy graves, graves y leves.', 'Graves y muy graves.'],
-        respuesta: "Muy graves, graves y leves."
-    },
-    {
-        pregunta: "¿Cuál de las siguientes no aparece como una falta muy grave en el artículo 95 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
-        opciones: ['La publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.', 'El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas.', 'L a desobediencia abierta a las órdenes o instrucciones de un superior, en todo caso.', 'La violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.'],
-        respuesta: "L a desobediencia abierta a las órdenes o instrucciones de un superior, en todo caso."
-    },
-    {
-        pregunta: "Según el artículo 95.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, para establecer las faltas graves se atenderá a una serie de circunstancias, entre ellas no se encuentra:",
-        opciones: ['La gravedad de los daños causados al interés público, patrimonio o bienes de la Administración o de los ciudadanos.', 'El grado en que se haya vulnerado la legalidad.', 'La voluntariedad en la comisión de la falta.', 'El descrédito para la imagen pública de la Administración.'],
-        respuesta: "La voluntariedad en la comisión de la falta."
-    },
-    {
-        pregunta: "Según el artículo 96 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la suspensión firme de funciones, o de empleo y sueldo en el caso de personal laboral, tendrá una duración:",
-        opciones: ['Máxima de 3 años.', 'Máxima de 6 años.', 'Máxima de 2 años.', 'Máxima de 1 año.'],
-        respuesta: "Máxima de 6 años."
-    },
-    {
-        pregunta: "¿Cuál de las siguientes sanciones no aparece entre las que se pueden imponer por razón de las faltas cometidas, teniendo en cuenta el artículo 96 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
-        opciones: ['Apercibimiento.', 'Traslado forzoso, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca.', 'Cualquier otra que se establezca reglamentariamente.', 'Despido disciplinario del personal laboral, que sólo podrá sancionar la comisión de faltas muy graves.'],
-        respuesta: "Cualquier otra que se establezca reglamentariamente."
-    },
-    {
-        pregunta: "Según el artículo 97 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las infracciones muy graves prescribirán:",
-        opciones: ['A los dos años.', 'A los tres años.', 'Al año.', 'Las faltas graves no prescriben.'],
-        respuesta: "A los tres años."
-    },
-    {
-        pregunta: "Según el artículo 97 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las infracciones leves prescribirán:",
-        opciones: ['Al año.', 'A los seis meses.', 'A los dos años.', 'A los tres meses.'],
-        respuesta: "A los seis meses."
-    },
-    {
-        pregunta: "De acuerdo con el artículo 98 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la imposición de sanciones por faltas leves se llevará a cabo por:",
-        opciones: ['Procedimiento sumario con audiencia del interesado.', 'Procedimiento previamente establecido.', 'Procedimiento disciplinario de urgencia.', 'Procedimiento abreviado sancionador.'],
-        respuesta: "Procedimiento sumario con audiencia del interesado."
-    },
-    {
-        pregunta: "El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, indica que en el procedimiento disciplinario que se establezca en el desarrollo del Estatuto quedará establecida la debida separación entre:",
-        opciones: ['La fase instructora y la sancionadora, encomendándose al mismo órgano en aplicación del principio de economía procesal.', 'La fase instructora y la sancionadora, encomendándose a órganos distintos.', 'La fase inicial, probatoria y final, encomendándose a órganos distintos.', 'La fase instructora y final, encomendándose al mismo órgano en aplicación del principio de economía procesal.'],
-        respuesta: "La fase instructora y la sancionadora, encomendándose a órganos distintos."
+        pregunta: "En relación con el presupuesto de las entidades Locales, no se imputarán a él, de acuerdo con lo establecido en el art. 163 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales: correspondientes a gastos realizados con anterioridad.",
+        opciones: ['Los derechos liquidados en el año natural, cualquiera que sea el periodo de que deriven.', 'Las obligaciones reconocidas durante el mes de enero siguiente al año natural de vigencia,', 'Los derechos liquidados en el año natural de su vigencia.', 'Las obligaciones reconocidas durante el año natural de su vigencia.'],
+        respuesta: "Las obligaciones reconocidas durante el mes de enero siguiente al año natural de vigencia,"
     },
 ];
 

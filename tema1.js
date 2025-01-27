@@ -30,34 +30,34 @@ const tema1 = [
         respuesta: "La Monarquía Parlamentaria."
     },
     {
-        pregunta: "Dispone el artículo 4 de la Constitución Española respecto a la bandera y enseñas propias de las Comunidades Autónomas:",
-        opciones: ['Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios oficiales y en sus actos públicos.', 'Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.', 'Las Comunidades Autónomas podrán crear y reconocer banderas y enseñas propias.', 'Las Leyes autonómicas podrán reconocer banderas y enseñas propias.'],
-        respuesta: "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales."
+        pregunta: "Dispone el artículo 4 de la Constitución Española respecto a la bandera y enseñas propias de las Comunidades Autónomas: Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios oficiales y en sus actos públicos. Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.",
+        opciones: ['Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades', 'Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades', 'Las Comunidades Autónomas podrán crear y reconocer banderas y enseñas propias.', 'Las Leyes autonómicas podrán reconocer banderas y enseñas propias.'],
+        respuesta: "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades"
     },
     {
-        pregunta: "El artículo 6 de la Constitución Española, dispone respecto a los partidos políticos, lo siguiente:",
-        opciones: ['Su estructura interna y funcionamiento podrán ser democráticos.', 'Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad ciudadana y son instrumento fundamental para la participación política.', 'Contribuyen a la defensa y promoción de los intereses que les son propios.', 'Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.'],
+        pregunta: "El artículo 6 de la Constitución Española, dispone respecto a los partidos políticos, lo siguiente: ciudadana y son instrumento fundamental para la participación política. manifestación de la voluntad popular y son instrumento fundamental para la participación política.",
+        opciones: ['Su estructura interna y funcionamiento podrán ser democráticos.', 'Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad', 'Contribuyen a la defensa y promoción de los intereses que les son propios.', 'Los partidos políticos expresan el pluralismo político, concurren a la formación y'],
         respuesta: "Los partidos políticos expresan el pluralismo político, concurren a la formación y"
     },
     {
-        pregunta: "Según establece el artículo 7 de la Constitución Española:",
-        opciones: ['Los sindicatos de trabajadores y asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.', 'Su creación y el ejercicio de su actividad son libres dentro del respeto a las leyes.', 'Su estructura y organización serán democráticos.', 'Los sindicatos de empresarios contribuyen a la defensa de los intereses económicos y sociales que les son propios.'],
-        respuesta: "Los sindicatos de trabajadores y asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios."
+        pregunta: "Según establece el artículo 7 de la Constitución Española: promoción de los intereses económicos y sociales que les son propios. sociales que les son propios.",
+        opciones: ['Los sindicatos de trabajadores y asociaciones empresariales contribuyen a la defensa y', 'Su creación y el ejercicio de su actividad son libres dentro del respeto a las leyes.', 'Su estructura y organización serán democráticos.', 'Los sindicatos de empresarios contribuyen a la defensa de los intereses económicos y'],
+        respuesta: "Los sindicatos de trabajadores y asociaciones empresariales contribuyen a la defensa y"
     },
     {
-        pregunta: "La Constitución española de 1978 se estructura en:",
-        opciones: ['Preámbulo, Título preliminar, 10 títulos, 9 disposiciones adicionales, 4 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.', 'Preámbulo, Título preliminar, 10 títulos, 4 disposiciones adicionales, 9 disposiciones transitorias, 2 disposiciones derogatorias y 1 disposición final.', 'Preámbulo, Título preliminar, 9 Títulos, 4 disposiciones adicionales, 10 disposiciones transitorias, 2 disposiciones derogatorias y 1 disposición final.', 'Preámbulo, Título preliminar, 10 Títulos, 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.'],
+        pregunta: "La Constitución española de 1978 se estructura en: transitorias, 1 disposición derogatoria y 1 disposición final. transitorias, 2 disposiciones derogatorias y 1 disposición final. transitorias, 2 disposiciones derogatorias y 1 disposición final. transitorias, 1 disposición derogatoria y 1 disposición final.",
+        opciones: ['Preámbulo, Título preliminar, 10 títulos, 9 disposiciones adicionales, 4 disposiciones', 'Preámbulo, Título preliminar, 10 títulos, 4 disposiciones adicionales, 9 disposiciones', 'Preámbulo, Título preliminar, 9 Títulos, 4 disposiciones adicionales, 10 disposiciones', 'Preámbulo, Título preliminar, 10 Títulos, 4 disposiciones adicionales, 9 disposiciones'],
         respuesta: "Preámbulo, Título preliminar, 10 Títulos, 4 disposiciones adicionales, 9 disposiciones"
     },
     {
-        pregunta: "El proceso de reforma constitucional regulado en el art. 168 de la Constitución española de 1978, está previsto para aquellos supuestos en que:",
-        opciones: ['Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección segunda del Título I, o al Título II.', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo primero, Sección primera del Título I, o al Título II.', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título III.', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II.'],
+        pregunta: "El proceso de reforma constitucional regulado en el art. 168 de la Constitución española de 1978, está previsto para aquellos supuestos en que: al Capítulo segundo, Sección segunda del Título I, o al Título II. al Capítulo primero, Sección primera del Título I, o al Título II. al Capítulo segundo, Sección primera del Título I, o al Título III. al Capítulo segundo, Sección primera del Título I, o al Título II.",
+        opciones: ['Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar,', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar,', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar,', 'Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar,'],
         respuesta: "Se proponga la revisión total de la Constitución o una parcial que afecte al Título preliminar,"
     },
     {
-        pregunta: "La reforma constitucional, según se regula en la Constitución Española de 1978:",
-        opciones: ['No podrá iniciarse fuera de los periodos ordinarios de sesiones.', 'No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de alarma, el de excepción o el de sitio.', 'Podrá iniciarse en cualquier momento.', 'No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de excepción o de sitio.'],
-        respuesta: "No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de alarma, el de excepción o el de sitio."
+        pregunta: "La reforma constitucional, según se regula en la Constitución Española de 1978: de excepción o el de sitio. de sitio.",
+        opciones: ['No podrá iniciarse fuera de los periodos ordinarios de sesiones.', 'No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de alarma, el', 'Podrá iniciarse en cualquier momento.', 'No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de excepción o'],
+        respuesta: "No podrá iniciarse en tiempo de guerra, ni cuando esté declarado el estado de alarma, el"
     },
     {
         pregunta: "La reforma de la Constitución española:",
@@ -65,9 +65,9 @@ const tema1 = [
         respuesta: "Se regula en el Título X de la Constitución."
     },
     {
-        pregunta: "En relación con la Reforma Constitucional regulada en el Título X de la Constitución Española: De no lograrse la aprobación del proyecto, tras la falta de acuerdo entre las cámaras, culminados que sean los trámites marcados constitucionalmente:",
-        opciones: ['Cada Cámara, por mayoría absoluta, podrá aprobar la reforma.', 'En ningún caso podrá continuarse adelante con la tramitación del proyecto de reforma constitucional.', 'El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, si el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado.', 'Sólo se podrá aprobar el texto, si hubiere obtenido al menos el voto favorable de la mayoría absoluta del Congreso.'],
-        respuesta: "El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, si el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado."
+        pregunta: "En relación con la Reforma Constitucional regulada en el Título X de la Constitución Española: De no lograrse la aprobación del proyecto, tras la falta de acuerdo entre las cámaras, culminados que sean los trámites marcados constitucionalmente: constitucional. obtenido el voto favorable de la mayoría absoluta del Senado. mayoría absoluta del Congreso.",
+        opciones: ['Cada Cámara, por mayoría absoluta, podrá aprobar la reforma.', 'En ningún caso podrá continuarse adelante con la tramitación del proyecto de reforma', 'El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, si el texto hubiere', 'Sólo se podrá aprobar el texto, si hubiere obtenido al menos el voto favorable de la'],
+        respuesta: "El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, si el texto hubiere"
     },
     {
         pregunta: "Nuestra Constitución se caracteriza por ser:",
@@ -115,9 +115,9 @@ const tema1 = [
         respuesta: "El 29 de diciembre de 1978."
     },
     {
-        pregunta: "La Constitución Española establece en su artículo 9.1:",
-        opciones: ['Corresponde al gobierno promover las condiciones para que la libertad y la seguridad del individuo sean reales y efectivas.', 'Les corresponde al Gobierno central y a las Comunidades Autónomas promover las condiciones para que la libertad e igualdad del individuo sean reales y efectivas', 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.', 'Los principios en los que se basa el gobierno para promover la igualdad y seguridad de los ciudadanos son el de legalidad, seguridad jurídica e interdicción de la arbitrariedad de los poderes públicos.'],
-        respuesta: "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico."
+        pregunta: "La Constitución Española establece en su artículo 9.1: individuo sean reales y efectivas. condiciones para que la libertad e igualdad del individuo sean reales y efectivas ordenamiento jurídico. ciudadanos son el de legalidad, seguridad jurídica e interdicción de la arbitrariedad de los poderes públicos.",
+        opciones: ['Corresponde al gobierno promover las condiciones para que la libertad y la seguridad del', 'Les corresponde al Gobierno central y a las Comunidades Autónomas promover las', 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del', 'Los principios en los que se basa el gobierno para promover la igualdad y seguridad de los'],
+        respuesta: "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del"
     },
     {
         pregunta: "Según establece nuestra Constitución, todos los españoles, con respecto al idioma oficial del Estado:",
@@ -125,38 +125,38 @@ const tema1 = [
         respuesta: "Tienen el deber de conocerlo y el derecho de usarlo."
     },
     {
-        pregunta: "¿Cuál es la lengua oficial del Estado español?",
-        opciones: ['El castellano.', 'Cualquiera de las lenguas oficiales reconocidas en España.', 'El español exclusivamente.', 'El castellano y las demás lenguas de acuerdo con los Estatutos de las Comunidades Autónomas.'],
+        pregunta: "¿Cuál es la lengua oficial del Estado español? Autónomas.",
+        opciones: ['El castellano.', 'Cualquiera de las lenguas oficiales reconocidas en España.', 'El español exclusivamente.', 'El castellano y las demás lenguas de acuerdo con los Estatutos de las Comunidades'],
         respuesta: "El castellano."
     },
     {
-        pregunta: "Las banderas y enseñas propias de las Comunidades Autónomas, reconocidas en sus Estatutos:",
-        opciones: ['Se utilizarán junto con la española sólo en los actos oficiales de carácter estatal.', 'La utilización conjunta de la bandera de España y la de cada Comunidad autónoma es potestad de las autoridades de la administración autonómica.', 'Se utilizarán junto a la española en sus edificios públicos y en sus actos oficiales.', 'Se utilizarán en sustitución de la española en los edificios públicos oficiales propios de cada Comunidad.'],
+        pregunta: "Las banderas y enseñas propias de las Comunidades Autónomas, reconocidas en sus Estatutos: potestad de las autoridades de la administración autonómica. Comunidad.",
+        opciones: ['Se utilizarán junto con la española sólo en los actos oficiales de carácter estatal.', 'La utilización conjunta de la bandera de España y la de cada Comunidad autónoma es', 'Se utilizarán junto a la española en sus edificios públicos y en sus actos oficiales.', 'Se utilizarán en sustitución de la española en los edificios públicos oficiales propios de cada'],
         respuesta: "Se utilizarán junto a la española en sus edificios públicos y en sus actos oficiales."
     },
     {
-        pregunta: "¿Quiénes tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional?",
-        opciones: ['Artículo 7.1: Las Fuerzas armadas, constituidas por el Ejército de Tierra, la Armada y el ejército del Aire.', 'Artículo 7.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Marina y el Ejército del Aire.', 'Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire.', 'Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de tierra, la Marina y el Ejército del Aire.'],
-        respuesta: "Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire."
+        pregunta: "¿Quiénes tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional? ejército del Aire. Ejército del Aire. Ejército del Aire. Ejército del Aire.",
+        opciones: ['Artículo 7.1: Las Fuerzas armadas, constituidas por el Ejército de Tierra, la Armada y el', 'Artículo 7.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Marina y el', 'Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el', 'Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de tierra, la Marina y el'],
+        respuesta: "Artículo 8.1: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el"
     },
     {
-        pregunta: "En el Procedimiento ordinario de reforma constitucional, el referéndum es:",
-        opciones: ['Improcedente.', 'Obligatorio en cada caso.', 'Voluntario en cualquier caso.', 'Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro de los quince días siguientes a la aprobación de la reforma.'],
+        pregunta: "En el Procedimiento ordinario de reforma constitucional, el referéndum es: de los quince días siguientes a la aprobación de la reforma.",
+        opciones: ['Improcedente.', 'Obligatorio en cada caso.', 'Voluntario en cualquier caso.', 'Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro'],
         respuesta: "Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro"
     },
     {
-        pregunta: "Establece el artículo 9.3 del texto constitucional:",
-        opciones: ['La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.', 'La Constitución garantiza el principio de legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.', 'Corresponde a los poderes del Estado promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.', 'Corresponde a los poderes públicos del Estado promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'],
-        respuesta: "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+        pregunta: "Establece el artículo 9.3 del texto constitucional: las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        opciones: ['La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de', 'La Constitución garantiza el principio de legalidad, la publicidad de las normas, la', 'Corresponde a los poderes del Estado promover las condiciones para que la libertad y la', 'Corresponde a los poderes públicos del Estado promover las condiciones para que la'],
+        respuesta: "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de"
     },
     {
-        pregunta: "Establece el artículo 9.2 del texto constitucional:",
-        opciones: ['La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.', 'La Constitución garantiza el principio de legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.', 'Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.', 'Corresponde a los poderes del Estado promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'],
-        respuesta: "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+        pregunta: "Establece el artículo 9.2 del texto constitucional: las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+        opciones: ['La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de', 'La Constitución garantiza el principio de legalidad, la publicidad de las normas, la', 'Corresponde a los poderes públicos promover las condiciones para que la libertad y la', 'Corresponde a los poderes del Estado promover las condiciones para que la libertad y la'],
+        respuesta: "Corresponde a los poderes públicos promover las condiciones para que la libertad y la"
     },
     {
-        pregunta: "Respecto a las nacionalidades y regiones que integran a la Nación española, la Constitución Española 1978 les reconoce y garantiza:",
-        opciones: ['El derecho a la autonomía.', 'El derecho a la solidaridad entre ellas, pero no el derecho a la autonomía políticamente entendida.', 'El derecho a su libre federación o confederación.', 'El derecho a la libre autodeterminación.'],
+        pregunta: "Respecto a las nacionalidades y regiones que integran a la Nación española, la Constitución Española 1978 les reconoce y garantiza: entendida.",
+        opciones: ['El derecho a la autonomía.', 'El derecho a la solidaridad entre ellas, pero no el derecho a la autonomía políticamente', 'El derecho a su libre federación o confederación.', 'El derecho a la libre autodeterminación.'],
         respuesta: "El derecho a la autonomía."
     },
     {
@@ -210,7 +210,7 @@ const tema1 = [
         respuesta: "En él se contienen los principios fundamentales que sirven de base a toda la Constitución."
     },
     {
-        pregunta: "El Título I de la Constitución: \"De los derechos y deberes fundamentales\", ¿de cuántos capítulos consta?",
+        pregunta: "El Título I de la Constitución: "De los derechos y deberes fundamentales", ¿de cuántos capítulos consta?",
         opciones: ['5 capítulos.', '3 capítulos.', '4 capítulos.', '2 capítulos y cada uno se divide en 3 secciones.'],
         respuesta: "5 capítulos."
     },
@@ -230,8 +230,8 @@ const tema1 = [
         respuesta: "Los partidos políticos."
     },
     {
-        pregunta: "El principio de irretroactividad garantizado en la Constitución Española en el artículo 9.3, abarca:",
-        opciones: ['A todas las normas de carácter penal.', 'A todas las disposiciones legales de cualquier orden.', 'A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.', 'A las disposiciones sancionadoras, más aquellas que impongan penas privativas de libertad no superior a los seis años, o de multa cualquiera que fuese su cuantía.'],
+        pregunta: "El principio de irretroactividad garantizado en la Constitución Española en el artículo 9.3, abarca: no superior a los seis años, o de multa cualquiera que fuese su cuantía.",
+        opciones: ['A todas las normas de carácter penal.', 'A todas las disposiciones legales de cualquier orden.', 'A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.', 'A las disposiciones sancionadoras, más aquellas que impongan penas privativas de libertad'],
         respuesta: "A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
     },
     {
@@ -240,8 +240,8 @@ const tema1 = [
         respuesta: "Sean reales y efectivas."
     },
     {
-        pregunta: "Según el artículo 7 de la Constitución Española: Los sindicatos de trabajadores:",
-        opciones: ['Contribuyen en solitario a la promoción de los intereses sociales.', 'Contribuyen a la defensa de los intereses sociales, pero no de naturaleza propia, sino general.', 'Contribuyen a la defensa de sus exclusivos intereses económicos.', 'Contribuyen a la defensa y promoción de los intereses económicos y sociales que le son propios.'],
+        pregunta: "Según el artículo 7 de la Constitución Española: Los sindicatos de trabajadores: general. propios.",
+        opciones: ['Contribuyen en solitario a la promoción de los intereses sociales.', 'Contribuyen a la defensa de los intereses sociales, pero no de naturaleza propia, sino', 'Contribuyen a la defensa de sus exclusivos intereses económicos.', 'Contribuyen a la defensa y promoción de los intereses económicos y sociales que le son'],
         respuesta: "Contribuyen a la defensa y promoción de los intereses económicos y sociales que le son"
     },
     {
@@ -260,19 +260,19 @@ const tema1 = [
         respuesta: "Tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116."
     },
     {
-        pregunta: "De las siguientes afirmaciones, es correcta:",
-        opciones: ['Las personas extranjeras gozan en España de idénticas libertades públicas que los españoles.', 'Las personas extranjeras gozan en España de idénticos derechos que los españoles.', 'Las personas extranjeras gozan en España de las libertades públicas que se garantizan en el Título I de la Constitución en los términos que establezcan los Tratados y la Ley.', 'Las personas extranjeras no gozan de ninguno de los derechos reconocidos en el Título I de la Constitución.'],
-        respuesta: "Las personas extranjeras gozan en España de las libertades públicas que se garantizan en el Título I de la Constitución en los términos que establezcan los Tratados y la Ley."
+        pregunta: "De las siguientes afirmaciones, es correcta: españoles. Título I de la Constitución en los términos que establezcan los Tratados y la Ley. la Constitución.",
+        opciones: ['Las personas extranjeras gozan en España de idénticas libertades públicas que los', 'Las personas extranjeras gozan en España de idénticos derechos que los españoles.', 'Las personas extranjeras gozan en España de las libertades públicas que se garantizan en el', 'Las personas extranjeras no gozan de ninguno de los derechos reconocidos en el Título I de'],
+        respuesta: "Las personas extranjeras gozan en España de las libertades públicas que se garantizan en el"
     },
     {
-        pregunta: "El Artículo 14 de la Constitución Española de 1978 establece lo siguiente:",
-        opciones: ['Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.', 'Todos los ciudadanos son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión u opinión.', 'Los españoles y españolas son iguales ante la ley.', 'Los españoles son iguales, sin que pueda prevalecer discriminación alguna por cualquier condición o circunstancia personal o social.'],
-        respuesta: "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."
+        pregunta: "El Artículo 14 de la Constitución Española de 1978 establece lo siguiente: razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. alguna por razón de nacimiento, raza, sexo, religión u opinión. condición o circunstancia personal o social.",
+        opciones: ['Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por', 'Todos los ciudadanos son iguales ante la ley, sin que pueda prevalecer discriminación', 'Los españoles y españolas son iguales ante la ley.', 'Los españoles son iguales, sin que pueda prevalecer discriminación alguna por cualquier'],
+        respuesta: "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por"
     },
     {
-        pregunta: "De acuerdo con el artículo 116 de la Constitución Española, el Estado de Excepción será declarado mediante:",
-        opciones: ['Decreto acordado en Consejo de Ministros dando cuenta al Congreso de los Diputados.', 'Decreto acordado en Consejo de Ministros previa autorización del Congreso de los Diputados', 'Decreto autorizado por las Cortes Generales.', 'Una ley.'],
-        respuesta: "Decreto acordado en Consejo de Ministros previa autorización del Congreso de los Diputados"
+        pregunta: "De acuerdo con el artículo 116 de la Constitución Española, el Estado de Excepción será declarado mediante: Diputados",
+        opciones: ['Decreto acordado en Consejo de Ministros dando cuenta al Congreso de los Diputados.', 'Decreto acordado en Consejo de Ministros previa autorización del Congreso de los', 'Decreto autorizado por las Cortes Generales.', 'Una ley.'],
+        respuesta: "Decreto acordado en Consejo de Ministros previa autorización del Congreso de los"
     },
     {
         pregunta: "De acuerdo con el artículo 18 de la Constitución Española de 1978, el domicilio es inviolable, de modo que no se podrá entrar en él:",
@@ -370,8 +370,8 @@ const tema1 = [
         respuesta: "Las que persigan fines o utilicen medios tipificados como delito."
     },
     {
-        pregunta: "Según dispone la Constitución Española, los ciudadanos tienen derecho a participar en los asuntos públicos:",
-        opciones: ['Sólo de forma directa.', 'Sólo por medio de representantes.', 'Cuando lo haga a través de representantes, estos deberán haber sido elegidos directamente por los afectados.', 'Directamente o por medio de representantes.'],
+        pregunta: "Según dispone la Constitución Española, los ciudadanos tienen derecho a participar en los asuntos públicos: directamente por los afectados.",
+        opciones: ['Sólo de forma directa.', 'Sólo por medio de representantes.', 'Cuando lo haga a través de representantes, estos deberán haber sido elegidos', 'Directamente o por medio de representantes.'],
         respuesta: "Directamente o por medio de representantes."
     },
     {
@@ -385,9 +385,9 @@ const tema1 = [
         respuesta: "Un principio rector de la política social y económica."
     },
     {
-        pregunta: "Conforme el artículo 31 de la Constitución Española de 1978:",
-        opciones: ['No podrán establecerse prestaciones personales.', 'La programación y ejecución del gasto público responderá a los criterios de eficiencia y economía.', 'No podrán establecerse prestaciones personales patrimoniales.', 'El gasto público realizará una asignación arbitraria de los recursos públicos.'],
-        respuesta: "La programación y ejecución del gasto público responderá a los criterios de eficiencia y economía."
+        pregunta: "Conforme el artículo 31 de la Constitución Española de 1978: economía.",
+        opciones: ['No podrán establecerse prestaciones personales.', 'La programación y ejecución del gasto público responderá a los criterios de eficiencia y', 'No podrán establecerse prestaciones personales patrimoniales.', 'El gasto público realizará una asignación arbitraria de los recursos públicos.'],
+        respuesta: "La programación y ejecución del gasto público responderá a los criterios de eficiencia y"
     },
     {
         pregunta: "Según establece el artículo 54 de la Constitución Española, ¿ante quién debe rendir cuenta el Defensor del Pueblo?",
